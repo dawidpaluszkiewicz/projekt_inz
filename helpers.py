@@ -44,6 +44,25 @@ def get_stop_words_list():
 STOP_WORDS = get_stop_words_list()
 
 
+def clear_text_and_change_to_vector(text):
+    to_remove = list('1234567890,.()-!@#$%^&*_+={}[];:/—')
+    for sign in to_remove:
+        text = text.replace(sign, ' ')
+
+    text = text.replace('   ', ' ')
+    text = text.replace('  ', ' ')
+    text = text.replace('\n', ' ')
+    word_vec = text.split(' ')
+    word_vec = [i.strip() for i in word_vec]
+    word_vec = [i for i in word_vec if len(i) > 1]
+    word_vec = [i.lower() for i in word_vec]
+    word_vec = [i for i in word_vec if i not in STOP_WORDS]
+    ps = PorterStemmer()
+    word_vec = [ps.stem(i) for i in word_vec]
+
+    return word_vec
+
+
 def get_all_pdf_files(path):
     files = os.listdir(path)
     files = [f for f in files if f.endswith('.pdf')]
