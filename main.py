@@ -1,7 +1,49 @@
+import argparse
+from documentprocessor import DocumentProcessor
+from clustering import kmean_process, dbscan_process
+
 from helpers import *
 
 
+def create_parser():
+    my_parser = argparse.ArgumentParser(description='This tool splits articles into number of clusters using ML'
+                                                    ' algorithms')
+    my_parser.add_argument('Path',
+                           metavar='path',
+                           type=str,
+                           help='the path to directory containing articles')
+
+    my_parser.add_argument('Clusters',
+                           metavar='clusters',
+                           type=int,
+                           help='number of clusters needed')
+
+    my_parser.add_argument('-o',
+                           '--options',
+                           type=str,
+                           help='specify what elements you want to use to split articles. t-title, a-abstract, '
+                                'k-keywords, c-content. Example usage -o tac. Default option "tac"',
+                           default='tac')
+
+    my_parser.add_argument('-a',
+                           '--algorithm',
+                           type=str,
+                           help='choose algorithm used to cluster articles> k-kmeans, d-dbscan. Default option kmeans',
+                           default='k')
+
+    return my_parser
+
+
 def main():
+    parser = create_parser()
+    args = parser.parse_args()
+
+    # TODO validate args
+
+    path = args.Path
+    num_of_clusters = args.Clusters
+    options = args.options
+    algorithm = args.algorithm
 
     files = get_all_pdf_files(path)
 
