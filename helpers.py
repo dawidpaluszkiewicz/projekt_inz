@@ -67,3 +67,18 @@ def get_all_pdf_files(path):
     files = os.listdir(path)
     files = [f for f in files if f.endswith('.pdf')]
     return files
+
+
+def get_zeroed_dictionary_with_all_worlds(file_text):
+    texts = []
+    for _, text in file_text:
+        texts.append(text)
+
+    combined_text = ' '.join(texts)
+    word_vec = clear_text_and_change_to_vector(combined_text)
+
+    all_words = {}
+    for i in word_vec:
+        all_words[i] = 0
+
+    return all_words

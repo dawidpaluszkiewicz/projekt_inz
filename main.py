@@ -11,5 +11,9 @@ def main():
         text = convert_pdf_to_txt(f)
         file_text.append((file, text))
 
+    all_words = get_zeroed_dictionary_with_all_worlds(file_text)
+    #print(all_words)
+
+
 if __name__ == '__main__':
     main()
