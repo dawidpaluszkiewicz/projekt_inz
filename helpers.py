@@ -82,3 +82,19 @@ def get_zeroed_dictionary_with_all_worlds(file_text):
         all_words[i] = 0
 
     return all_words
+
+
+def get_word_presence_in_docs(path_text, all_words):
+    texts = []
+    for _, text in path_text:
+        texts.append(clear_text_and_change_to_vector(text))
+
+    result = all_words.copy()
+    for i in all_words.keys():
+        count = 0
+        for text in texts:
+            if i in text:
+                count +=1
+        result[i] = count
+
+    return result

@@ -14,6 +14,10 @@ def main():
     all_words = get_zeroed_dictionary_with_all_worlds(file_text)
     #print(all_words)
 
+    # will be required to evaulate idf
+    world_presence_in_docs = get_word_presence_in_docs(file_text, all_words)
+    #print(world_presence_in_docs)
+
 
 if __name__ == '__main__':
     main()
