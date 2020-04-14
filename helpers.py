@@ -31,6 +31,18 @@ def convert_pdf_to_txt(path):  # TODO add exception handling
     return text
 
 
+def get_stop_words_list():
+    stop_words = []
+    with open('stopwords') as f:
+        for line in f:
+            tmp = line.replace('\n', '')
+            stop_words.append(tmp)
+
+    return stop_words
+
+
+STOP_WORDS = get_stop_words_list()
+
 
 def get_all_pdf_files(path):
     files = os.listdir(path)
