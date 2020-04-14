@@ -84,6 +84,14 @@ def get_zeroed_dictionary_with_all_worlds(file_text):
     return all_words
 
 
+def get_list_item(array, item):
+    for i, j in enumerate(array):
+        if item == j:
+            return i
+
+    return -0.5
+
+
 def get_word_presence_in_docs(path_text, all_words):
     texts = []
     for _, text in path_text:
