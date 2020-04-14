@@ -18,6 +18,12 @@ def main():
     world_presence_in_docs = get_word_presence_in_docs(file_text, all_words)
     #print(world_presence_in_docs)
 
+    X = []
+    Y = []
+    for file, text in file_text:
+        dp = DocumentProcessor(text, all_words, world_presence_in_docs, options)
+        X.append(dp.get_processed_data())
+        Y.append(file)
 
 if __name__ == '__main__':
     main()
