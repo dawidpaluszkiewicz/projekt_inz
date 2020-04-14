@@ -25,5 +25,11 @@ def main():
         X.append(dp.get_processed_data())
         Y.append(file)
 
+    if algorithm == 'k':
+        print(kmean_process(X, Y, num_of_clusters))
+    elif algorithm == 'd':
+        print(dbscan_process(X, Y))
+
+
 if __name__ == '__main__':
     main()
