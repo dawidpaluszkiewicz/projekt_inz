@@ -32,6 +32,11 @@ def convert_pdf_to_txt(path):  # TODO add exception handling
 
 
 def get_stop_words_list():
+    """
+    Reads stop word list from file "stopwords" into list and returns it.
+
+    :return: list of stop words
+    """
     stop_words = []
     with open('stopwords') as f:
         for line in f:
@@ -45,6 +50,12 @@ STOP_WORDS = get_stop_words_list()
 
 
 def clear_text_and_change_to_vector(text):
+    """
+    Clears text. Remove all redundant signs, remove stop words, stem words and transform text into vector of words.
+
+    :param text: text to process
+    :return: list of cleared and transformed words
+    """
     to_remove = list('1234567890,.()-!@#$%^&*_+={}[];:/—')
     for sign in to_remove:
         text = text.replace(sign, ' ')
@@ -70,6 +81,13 @@ def get_all_pdf_files(path):
 
 
 def get_zeroed_dictionary_with_all_worlds(file_text):
+    """
+    Concatenates all documents to process. Creates vector with all words appearing in articles.
+    Creates and returns a dictionary containing all unique processed words.
+
+    :param file_text: list of tuples containing name of the file and its text
+    :return: dictionary containing all unique words included in all articles
+    """
     texts = []
     for _, text in file_text:
         texts.append(text)
@@ -93,6 +111,14 @@ def get_list_item(array, item):
 
 
 def get_word_presence_in_docs(path_text, all_words):
+    """
+    For each word included in all_word dictionary it assigns number of documents the specific word is present at least
+    once.
+
+    :param path_text: list of tuples containing name of the file and its text
+    :param all_words: zeroed dictionary with all unique words included in all articles
+    :return: dictionary containing word count in all documents
+    """
     texts = []
     for _, text in path_text:
         texts.append(clear_text_and_change_to_vector(text))
