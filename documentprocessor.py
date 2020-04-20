@@ -4,7 +4,7 @@ import numpy as np
 
 class DocumentProcessor:
     """
-    TODO documentation and tests
+    class which transform article text into features(required to train clustering model)
     """
 
     def __init__(self, text, all_words, words_presence_in_docs, options='tac'):
@@ -31,6 +31,12 @@ class DocumentProcessor:
             return False
 
     def get_feature_vector(self, words):
+        """
+        create and returns vector of features(list containing ordered word counts based on zeroed all_word dictionary)
+
+        :param words: list of words
+        :return: list of numbers representing word counts in passed argument
+        """
         dictionary = self.all_words.copy()
         for i in words:
             dictionary[i] += 1
@@ -38,6 +44,13 @@ class DocumentProcessor:
         return dictionary.values()
 
     def get_feature_dict(self, words):
+        """
+        create and returns dictionary containing word counts based on passed as argument list of words
+        and zeroed all_word dictionary
+
+        :param words: list of words
+        :return: dictionary with word counts
+        """
         dictionary = self.all_words.copy()
         for i in words:
             dictionary[i] += 1
@@ -45,6 +58,11 @@ class DocumentProcessor:
         return dictionary
 
     def get_key_feature(self):
+        """
+        gets all words between 'keyword' and 'introduct' and transforms it into features vector
+
+        :return:
+        """
         if self.if_keywords_present():
             start = get_list_item(self.text_vec, 'keyword') + 1
             stop = get_list_item(self.text_vec, 'introduct')
@@ -54,12 +72,22 @@ class DocumentProcessor:
             raise Exception('Despite keywords option selected, keywords are not present in all pdfs')
 
     def get_title_feature(self):
+        """
+        gets all words up to 'abstract' and transforms it into features vector
+
+        :return:
+        """
         start = 0
         stop = get_list_item(self.text_vec, 'abstract')
         words = self.text_vec[start:stop]
         return self.get_feature_vector(words)
 
     def get_abstract_feature(self):
+        """
+        gets all words between 'abstract' and 'introduct' or 'keywords' and transforms it into features vector
+
+        :return:
+        """
         start = get_list_item(self.text_vec, 'abstract') + 1
         if self.if_keywords_present():
             stop = get_list_item(self.text_vec, 'keyword')
@@ -69,6 +97,12 @@ class DocumentProcessor:
         return self.get_feature_vector(words)
 
     def get_content_feature(self):
+        """
+        gets all words after 'introduct' and transforms it into features vector, creates tf idf features vector
+
+
+        :return:
+        """
         start = get_list_item(self.text_vec, 'introduct') + 1
         stop = -1
         words = self.text_vec[start:stop]
