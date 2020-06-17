@@ -43,7 +43,7 @@ def main():
     parser = create_parser()
     args = parser.parse_args()
 
-    # TODO validate args
+    validate_input_parameters(args)
 
     path = args.Path
     num_of_clusters = args.Clusters
@@ -77,10 +77,14 @@ def main():
     x = np.array(x)
 
 
-    if algorithm == 'k':
-        print(kmean_process(X, Y, num_of_clusters))
-    elif algorithm == 'd':
-        print(dbscan_process(X, Y))
+
+    if 'k' in algorithm:
+        result = kmean_process(x, y, num_of_clusters)
+        save_result_to_file("kmeans", result)
+    if 'd' in algorithm:
+        result = dbscan_process(x, y, num_of_clusters)
+        save_result_to_file("dbscan", result)
+
 
 
 if __name__ == '__main__':
