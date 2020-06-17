@@ -18,6 +18,11 @@ def create_parser():
                            type=int,
                            help='number of clusters needed')
 
+    my_parser.add_argument('File_format',
+                           metavar='file_format',
+                           type=str,
+                           help='file format of articles txt or pdf')
+
     my_parser.add_argument('-o',
                            '--options',
                            type=str,
@@ -44,8 +49,16 @@ def main():
     num_of_clusters = args.Clusters
     options = args.options
     algorithm = args.algorithm
+    file_format = args.File_format
 
-    files = get_all_pdf_files(path)
+    if file_format == 'pdf':
+        files = get_all_pdf_files(path)
+        read_data_function = convert_pdf_to_txt
+    else:
+        files = get_all_txt_files(path)
+        read_data_function = read_txt
+
+    files = [os.path.join(path, i) for i in files]
 
     file_text = []
     for file in files:

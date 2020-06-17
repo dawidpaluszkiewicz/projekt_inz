@@ -1,13 +1,22 @@
 import os
+import sys
+
 from nltk.stem import PorterStemmer
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
 from pdfminer.layout import LAParams
 from pdfminer.pdfpage import PDFPage
 from io import StringIO
+from multiprocessing.dummy import Pool as ThreadPool
 
 
-def convert_pdf_to_txt(path):  # TODO add exception handling
+def read_txt(path):
+    tmp = []
+    with open(path) as f:
+        for line in f:
+            tmp.append(line)
+    return path, ''.join(tmp)
+
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
     laparams = LAParams()
@@ -77,6 +86,12 @@ def clear_text_and_change_to_vector(text):
 def get_all_pdf_files(path):
     files = os.listdir(path)
     files = [f for f in files if f.endswith('.pdf')]
+    return files
+
+
+def get_all_txt_files(path):
+    files = os.listdir(path)
+    files = [f for f in files if f.endswith('.txt')]
     return files
 
 
