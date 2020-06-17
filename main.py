@@ -1,4 +1,6 @@
 import argparse
+import time
+
 from documentprocessor import DocumentProcessor
 from clustering import kmean_process, dbscan_process
 
@@ -40,6 +42,7 @@ def create_parser():
 
 
 def main():
+    start = time.time()  # debugging performance purpose
     parser = create_parser()
     args = parser.parse_args()
 
@@ -85,6 +88,8 @@ def main():
         result = dbscan_process(x, y, num_of_clusters)
         save_result_to_file("dbscan", result)
 
+    end_ = time.time()  # debugging performance purpose
+    print(end_ - start)  # debugging performance purpose
 
 
 if __name__ == '__main__':
