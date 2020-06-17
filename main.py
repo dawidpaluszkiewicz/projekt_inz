@@ -63,18 +63,19 @@ def main():
     file_text = read_data_multithread(files, read_data_function, threads=1)
 
     all_words = get_zeroed_dictionary_with_all_worlds(file_text)
-    #print(all_words)
 
-    # will be required to evaulate idf
+    # is required to evaluate idf
     world_presence_in_docs = get_word_presence_in_docs(file_text, all_words)
-    #print(world_presence_in_docs)
 
-    X = []
-    Y = []
+    x = []
+    y = []
     for file, text in file_text:
         dp = DocumentProcessor(text, all_words, world_presence_in_docs, options)
-        X.append(dp.get_processed_data())
-        Y.append(file)
+        x.append(dp.get_processed_data())
+        y.append(file)
+
+    x = np.array(x)
+
 
     if algorithm == 'k':
         print(kmean_process(X, Y, num_of_clusters))

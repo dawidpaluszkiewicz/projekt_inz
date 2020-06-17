@@ -152,7 +152,7 @@ def get_word_presence_in_docs(path_text, all_words):
         count = 0
         for text in texts:
             if i in text:
-                count +=1
+                count += 1
         result[i] = count
 
     return result

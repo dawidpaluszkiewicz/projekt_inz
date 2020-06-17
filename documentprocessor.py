@@ -13,6 +13,7 @@ class DocumentProcessor:
         self.words_presence_in_docs = words_presence_in_docs
         self.processed = []
 
+        # TODO create an exception to handle errors and return name of failing file
         # k-key t-title a-abstract c-content
         if 'k' in options:
             self.if_keywords_present()
