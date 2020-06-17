@@ -37,7 +37,16 @@ def read_txt(path):
     fp.close()
     device.close()
     retstr.close()
-    return text
+
+    return path, text
+
+
+def read_data_multithread(files, reader_function, threads=8):
+    pool = ThreadPool(threads)
+    results = pool.map(reader_function, files)
+    pool.close()
+    pool.join()
+    return results
 
 
 def get_stop_words_list():
