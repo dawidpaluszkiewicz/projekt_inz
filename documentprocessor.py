@@ -1,5 +1,6 @@
-from helpers import clear_text_and_change_to_vector, get_list_item
 import numpy as np
+
+from helpers import clear_text_and_change_to_vector
 
 
 class DocumentProcessor:
@@ -65,8 +66,8 @@ class DocumentProcessor:
         :return:
         """
         if self.if_keywords_present():
-            start = get_list_item(self.text_vec, 'keyword') + 1
-            stop = get_list_item(self.text_vec, 'introduct')
+            start = self.text_vec.index('keyword') + 1
+            stop = self.text_vec.index('introduct')
             words = self.text_vec[start:stop]
             return self.get_feature_vector(words)
         else:
@@ -79,7 +80,7 @@ class DocumentProcessor:
         :return:
         """
         start = 0
-        stop = get_list_item(self.text_vec, 'abstract')
+        stop = self.text_vec.index('abstract')
         words = self.text_vec[start:stop]
         return self.get_feature_vector(words)
 
@@ -89,22 +90,23 @@ class DocumentProcessor:
 
         :return:
         """
-        start = get_list_item(self.text_vec, 'abstract') + 1
+        start = self.text_vec.index('abstract') + 1
         if self.if_keywords_present():
-            stop = get_list_item(self.text_vec, 'keyword')
+            stop = self.text_vec.index('keyword')
         else:
-            stop = get_list_item(self.text_vec, 'introduct')
+            stop = self.text_vec.index('introduct')
+
         words = self.text_vec[start:stop]
         return self.get_feature_vector(words)
 
-    def get_content_feature(self):
+    def get_content_feature(self):  # TODO separate content and tfidf and set tdidf as a default
         """
         gets all words after 'introduct' and transforms it into features vector, creates tf idf features vector
 
 
         :return:
         """
-        start = get_list_item(self.text_vec, 'introduct') + 1
+        start = self.text_vec.index('introduct') + 1
         stop = -1
         words = self.text_vec[start:stop]
         feature_dict = self.get_feature_dict(words)
