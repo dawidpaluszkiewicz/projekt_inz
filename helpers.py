@@ -1,6 +1,10 @@
 import os
 import sys
+import pandas as pd
+import numpy as np
 
+from matplotlib import pyplot as plt
+from sklearn.decomposition import PCA
 from nltk.stem import PorterStemmer
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
@@ -177,3 +181,34 @@ def validate_input_parameters(params):  # Maybe to develop further to make gui a
     if file_format not in ['pdf', 'txt']:
         print("Wrong file format parameter")
         sys.exit(1)
+
+
+def plot_PCA(x, centres):
+    """
+        Reduces number of data dimensions to 2 most relevant one and plots it along with cluster centers.
+
+
+        :param x: data representation of articles
+        :param centres: centres of clusters
+        """
+    num_of_elements = len(x)
+    num_of_clusters = len(centres)
+    x = [i[1] for i in x]
+    for i in range(num_of_clusters):
+        x.append(centres[i])
+
+    x = np.array(x)
+    x_norm = (x - x.min()) / (x.max() - x.min())
+    pca = PCA(n_components=2)  # 2-dimensional PCA
+    transf = pd.DataFrame(pca.fit_transform(x_norm))
+
+    for i in range(num_of_clusters):
+        plt.scatter(transf[0][(num_of_elements // num_of_clusters) * i:(num_of_elements // num_of_clusters) * (i + 1)],
+                    transf[1][(num_of_elements // num_of_clusters) * i:(num_of_elements // num_of_clusters) * (i + 1)],
+                    label=str(i))
+
+        plt.scatter(transf[0][num_of_elements + i], transf[1][num_of_elements + i], label='{} cluster center'.format(i),
+                    s=150)
+
+    plt.legend()
+    plt.show()
