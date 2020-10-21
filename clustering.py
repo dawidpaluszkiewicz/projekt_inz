@@ -4,6 +4,9 @@ from sklearn.cluster import KMeans, DBSCAN
 
 # from helpers import plot_PCA
 
+# TODO add PCA to extract most important features before clustering
+# TODO add implementation of kmeans based on cosine similarity
+
 
 def kmean_process(x, y, num_of_clusters):
     np.random.seed(5)
