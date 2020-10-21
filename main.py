@@ -4,7 +4,7 @@ import os
 import numpy as np
 
 from documentprocessor import DocumentProcessor
-from clustering import kmean_process, dbscan_process
+from clustering import kmean_process, dbscan_process, kmean_process_equal_clusters
 
 from helpers import (
     save_result_to_file,
@@ -98,6 +98,9 @@ def main():
     if 'd' in algorithm:
         result = dbscan_process(x, y, num_of_clusters)
         save_result_to_file("dbscan", result)
+    if 'e':
+        result = kmean_process_equal_clusters(x, y, num_of_clusters)
+        save_result_to_file("kmeans_equal_size", result)
 
     end_ = time.time()  # debugging performance purpose
     print(f"Loading and computation took {end_ - start} seconds")  # debugging performance purpose
