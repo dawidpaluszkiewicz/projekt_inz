@@ -47,7 +47,7 @@ def convert_pdf_to_txt(path):
     return path, text
 
 
-def read_data_multithread(files, reader_function, threads=8):
+def read_data_multithread(files, reader_function, threads=1):
     pool = ThreadPool(threads)
     results = pool.map(reader_function, files)
     pool.close()
