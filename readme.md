@@ -26,7 +26,7 @@ pip install requirements.txt
 This is how you can test if everything is properly setup
 
 ```sh
-python main.py -o c -a e test_data 3 txt
+python main.py -o c -a e ../test_data 3 txt
 ```
 
 It will generate a result file called kmeans_equal_size containing data about clustered articles
