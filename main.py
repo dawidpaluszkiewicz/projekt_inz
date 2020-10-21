@@ -1,10 +1,22 @@
 import argparse
 import time
+import os
+import numpy as np
 
 from documentprocessor import DocumentProcessor
 from clustering import kmean_process, dbscan_process
 
-from helpers import *
+from helpers import (
+    save_result_to_file,
+    validate_input_parameters,
+    get_all_txt_files,
+    get_all_pdf_files,
+    convert_pdf_to_txt,
+    read_txt,
+    read_data_multithread,
+    get_zeroed_dictionary_with_all_worlds,
+    get_word_presence_in_docs,
+)
 
 
 def create_parser():
@@ -35,14 +47,15 @@ def create_parser():
     my_parser.add_argument('-a',
                            '--algorithm',
                            type=str,
-                           help='choose algorithm used to cluster articles> k-kmeans, d-dbscan. Default option kmeans',
+                           help='choose algorithm used to cluster articles> k-kmeans, d-dbscan e-equal size clusters'
+                                ' by kmeans. Default option kmeans',
                            default='k')
 
     return my_parser
 
 
 def main():
-    start = time.time()  # debugging performance purpose
+    start = time.time()  # benchmarking purpose
     parser = create_parser()
     args = parser.parse_args()
 
@@ -63,11 +76,11 @@ def main():
 
     files = [os.path.join(path, i) for i in files]
 
-    file_text = read_data_multithread(files, read_data_function, threads=1)
+    file_text = read_data_multithread(files, read_data_function)
 
     all_words = get_zeroed_dictionary_with_all_worlds(file_text)
 
-    # is required to evaluate idf
+    # it is required to evaluate tfidf
     world_presence_in_docs = get_word_presence_in_docs(file_text, all_words)
 
     x = []
@@ -79,8 +92,6 @@ def main():
 
     x = np.array(x)
 
-
-
     if 'k' in algorithm:
         result = kmean_process(x, y, num_of_clusters)
         save_result_to_file("kmeans", result)
@@ -89,8 +100,11 @@ def main():
         save_result_to_file("dbscan", result)
 
     end_ = time.time()  # debugging performance purpose
-    print(end_ - start)  # debugging performance purpose
+    print(f"Loading and computation took {end_ - start} seconds")  # debugging performance purpose
 
 
 if __name__ == '__main__':
     main()
+
+
+# TODO add option to disable idf

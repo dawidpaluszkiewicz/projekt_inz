@@ -4,10 +4,9 @@ from sklearn.cluster import KMeans, DBSCAN
 
 
 def kmean_process(x, y, num_of_clusters):
-    X = np.array(x)
     np.random.seed(5)
 
-    est = KMeans(n_clusters=num_of_clusters, random_state=0).fit(X)
+    est = KMeans(n_clusters=num_of_clusters, random_state=0, n_init=100, max_iter=1000).fit(x)
 
     labels = est.labels_
 

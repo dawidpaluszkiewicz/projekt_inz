@@ -17,6 +17,8 @@ def read_txt(path):
             tmp.append(line)
     return path, ''.join(tmp)
 
+
+def convert_pdf_to_txt(path):
     rsrcmgr = PDFResourceManager()
     retstr = StringIO()
     laparams = LAParams()
@@ -95,12 +97,20 @@ def clear_text_and_change_to_vector(text):
 def get_all_pdf_files(path):
     files = os.listdir(path)
     files = [f for f in files if f.endswith('.pdf')]
+
+    if len(files) == 0:
+        raise FileNotFoundError("There is no any of pdf articles")
+
     return files
 
 
 def get_all_txt_files(path):
     files = os.listdir(path)
     files = [f for f in files if f.endswith('.txt')]
+
+    if len(files) == 0:
+        raise FileNotFoundError("There is no any of txt articles")
+
     return files
 
 
@@ -139,20 +149,21 @@ def get_word_presence_in_docs(path_text, all_words):
     for _, text in path_text:
         texts.append(clear_text_and_change_to_vector(text))
 
-    result = all_words.copy()
+    word_presence = all_words.copy()
     for i in all_words.keys():
         count = 0
         for text in texts:
             if i in text:
                 count += 1
-        result[i] = count
+        word_presence[i] = count
 
-    return result
+    return word_presence
 
 
 def save_result_to_file(file, result):
     with open(file, 'w') as f:
-        print(result, file=f)
+        for i in result:
+            print(f'{i[0]} {i[1]}', file=f)
 
 
 def validate_input_parameters(params):  # Maybe to develop further to make gui app return proper error
