@@ -173,6 +173,8 @@ def save_result_to_file(file, result):
 def validate_input_parameters(params):  # Maybe to develop further to make gui app return proper error
     num_of_clusters = params.Clusters
     file_format = params.File_format
+    options = params.options
+    algorithm = params.algorithm
 
     if num_of_clusters < 2:
         print("Number of clusters must be greater than 1")
@@ -180,6 +182,24 @@ def validate_input_parameters(params):  # Maybe to develop further to make gui a
 
     if file_format not in ['pdf', 'txt']:
         print("Wrong file format parameter")
+        sys.exit(1)
+
+    any_valid = False
+    for i in 'acknt':
+        if i in options:
+            any_valid = True
+
+    if not any_valid:
+        print("Please select at least one correct option")
+        sys.exit(1)
+
+    any_valid = False
+    for i in 'dek':
+        if i in algorithm:
+            any_valid = True
+
+    if not any_valid:
+        print("Please select at least one correct algorithm")
         sys.exit(1)
 
 
