@@ -8,7 +8,7 @@ class DocumentProcessor:
     class which transform article text into features(required to train clustering model)
     """
 
-    def __init__(self, text, all_words, words_presence_in_docs, options='tac'):
+    def __init__(self, text, all_words, words_presence_in_docs, options='n'):
         self.all_words = all_words
         self.text_vec = clear_text_and_change_to_vector(text)
         self.words_presence_in_docs = words_presence_in_docs
@@ -25,6 +25,8 @@ class DocumentProcessor:
             self.append_data(self.get_abstract_feature())
         if 'c' in options:
             self.append_data(self.get_content_feature())
+        if 'n' in options:
+            self.append_data(self.get_tfidf_feature())
 
     def if_keywords_present(self):
         if 'keyword' in self.text_vec:
@@ -99,7 +101,7 @@ class DocumentProcessor:
         words = self.text_vec[start:stop]
         return self.get_feature_vector(words)
 
-    def get_content_feature(self):  # TODO separate content and tfidf and set tdidf as a default
+    def get_content_feature(self):
         """
         gets all words after 'introduct' and transforms it into features vector, creates tf idf features vector
 
@@ -109,17 +111,30 @@ class DocumentProcessor:
         start = self.text_vec.index('introduct') + 1
         stop = -1
         words = self.text_vec[start:stop]
+
+        return self.get_feature_vector(words)
+
+    def get_tfidf_feature(self):
+        """
+                gets all words after 'introduct' and transforms it into features vector, creates tf idf features vector
+
+
+                :return:
+                """
+        start = self.text_vec.index('introduct') + 1
+        stop = -1
+        words = self.text_vec[start:stop]
+
         feature_dict = self.get_feature_dict(words)
+
         tfidf = []
         length = len(words)
-
         for i in feature_dict.keys():
             tf = feature_dict[i] / length
             idf = np.log(feature_dict[i] / self.words_presence_in_docs[i] + 1)
             tfidf.append(tf * idf)
 
-        feature_vec = list(feature_dict.values()) + tfidf
-        return feature_vec
+        return tfidf
 
     def get_processed_data(self):
         return self.processed

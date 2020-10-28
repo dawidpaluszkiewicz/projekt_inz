@@ -41,8 +41,8 @@ def create_parser():
                            '--options',
                            type=str,
                            help='specify what elements you want to use to split articles. t-title, a-abstract, '
-                                'k-keywords, c-content. Example usage -o tac. Default option "tac"',
-                           default='tac')
+                                'k-keywords, c-content, n-tfidf. Example usage -o tac. Default option "n"',
+                           default='n')
 
     my_parser.add_argument('-a',
                            '--algorithm',
