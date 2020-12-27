@@ -1,0 +1,21 @@
+introduct
+
+Nitrogen is an essential nutrient for plant growth. While about 80% of earth is nitrogen, it is mostly contained in the atmosphere as gas, and hence, inaccessible to plants. To boost plant growth, especially in agricultural settings, therefore, chemical nitrogen fertilizers are needed. A crucial step in the production of these fertilizers is the synthesis of ammonia, which involves a reaction between hydrogen and nitrogen in the presence of a catalyst.
+
+Traditionally, ammonia production has been performed through the "Haber-Bosch" process, which, despite being effective, requires high temperature conditions (400-500°C), making the process expensive. Consequently, scientists have been trying to find a way to reduce the reaction temperatures of ammonia synthesis.
+
+Recently, scientists have reported ruthenium -- a transition metal -- as an efficient "catalyst" for ammonia synthesis, as it operates under milder conditions than traditional iron-based catalysts. However, there is a caveat: nitrogen molecules need to stick to the catalyst surface to undergo dissociation into atoms before reacting with hydrogen to form ammonia. For ruthenium, however, the low temperature often causes hydrogen molecules to stick to its surface instead -- a process called hydrogen poisoning -- which impedes the production of ammonia. To work with ruthenium, therefore, it is necessary to suppress its hydrogen poisoning.
+
+Fortunately, certain materials can boost the catalytic activity of ruthenium when used as a "catalyst support." A team of scientists from Tokyo Tech, Japan, recently revealed that lanthanide hydride materials of the form LnH2+x is one such group of support materials. "The enhanced catalytic performance is realized by two unique properties of the support material. First, they donate electrons, which guide the dissociation of nitrogen on the ruthenium surface. Second, these electrons combine with hydrogen on the surface to form hydride ions, which readily react with nitrogen to form ammonia and release the electrons, suppressing hydrogen poisoning of ruthenium," explains Associate Prof. Maasaki Kitano, who led the study.
+
+Suspecting that hydride ion mobility might have a role to play in ammonia synthesis, the team, in a new study published in Advanced Energy Materials, investigated the performance of lanthanide oxyhydrides (LaH3-2xOx) -- reportedly fast hydride ion conductors at 100-400°C -- as a support material for ruthenium, with the aim of uncovering the relationship between ammonia synthesis and hydride ion mobility.
+
+They found that while the "bulk" hydride ion conductivity had little bearing on the activation of ammonia synthesis, the surface or "local" mobility of hydride ions did play a crucial role in catalysis by helping to build up a strong resistance against hydrogen poisoning of ruthenium. They also found that, compared with other support materials, lanthanum oxyhydrides required a lower onset temperature for ammonia formation (160°C) and showed a higher catalytic activity.
+
+Furthermore, the team observed that the presence of oxygen stabilized the oxyhydride framework and the hydride ions against nitridation -- the transformation of lanthanum oxyhydride to lanthanum nitride and its subsequent deactivation -- which tends to impede catalysis and is a major drawback in using hydride support materials. "The resistance to nitridation is a tremendous advantage as it helps to preserve the electron donating ability of the hydride ions for longer duration of the reaction," comments Prof. Kitano.
+
+The superior catalytic performance and lower synthesis onset temperature achieved using lanthanide oxyhydrides could thus be the much sought-after solution to turn the heat down on ammonia production!
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201223142448.htm

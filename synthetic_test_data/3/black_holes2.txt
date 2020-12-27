@@ -1,0 +1,41 @@
+introduct
+
+Researchers from the University of Kansas have described a galaxy more than 5.25 billion light years away undergoing a rarely seen stage in its galactic life cycle. Their findings recently were published in the Astrophysical Journal.
+
+The galaxy, dubbed CQ 4479, shows characteristics that normally don't coexist: an X-ray luminous active galactic nuclei (AGN) and a cold gas supply fueling high star formation rates.
+
+"Massive galaxies, such as our own Milky Way, host a supermassive black hole at their hearts -- these are black holes that grow by accreting interstellar gas onto themselves to become more massive," said Kevin Cooke, lead author and postdoctoral researcher in KU's Department of Physics & Astronomy. "The end of galactic growth is thought to happen when this gas accretion onto the black hole occurs in sufficient quantities that it produces a tremendous amount of energy. Then, all of that energy surrounding the black hole will actually heat up the rest of the gas throughout the galaxy in such a way that it can't condense any more to form stars and the galaxy's growth stops."
+
+The KU researchers instead found CQ 4479, a galaxy which never had been closely studied before, to be still generating new stars in spite of the luminous AGN at the galaxy's center.
+
+"Normally, we expect that to shut everything else off," Cooke said. "But instead, we see massive amounts of new stars being formed in this galaxy. So, it's a very limited time window where you can see both the black hole growing and the stars surrounding it growing at the same time."
+
+The researchers observed the cold quasar primarily using NASA's SOFIA infrared telescope, which is flown aboard a Boeing 747 aircraft. Other measurements were made using FUV-FIR photometry and optical spectroscopy. The work was supported by a NASA grant to primary investigator Allison Kirkpatrick, assistant professor of physics & astronomy at KU, who co-wrote the new paper.
+
+Kirkpatrick said the team's various methods of observing the galaxy showed contradictory data, making the nature of CQ 4479 even more of a puzzle.
+
+"What's really unique about this source is we have different measurements of the energy output near the black hole," Kirkpatrick said. "That tells you how fast the black hole is growing and also its feedback into the host galaxy that can shut down star formation. We have everything from X-ray, to optical and the infrared, so we're able to measure several different signatures of the black hole's energy output. And the signatures don't agree -- that's really rare. One interpretation is the growth of the black hole is slowing, because the X-rays come from right next to the black hole, while the optical signatures come from a little bit further out, and the infrared signatures come from further out as well. Essentially, less energy seems to be being produced right around the black hole now than it was in the past."
+
+The researchers seem to be looking at a snapshot of the galaxy during a pivotal stage of its lifespan.
+
+"I think this is a galaxy undergoing a midlife crisis," Kirkpatrick said. "It's going through one last burst of star formation. Most of its solar mass is already in place. It's forming a few more stars now, and the thing that's ultimately going to kill it is starting to kick in."
+
+In part, the research at KU was performed by Kirkpatrick's undergraduate student and co-author Michael Estrada, now a graduate student at University of Florida.
+
+"He did the data analysis of the optical spectroscopy and measured the black hole mass for us," Kirkpatrick said.
+
+Other questions about the physical structure of the galaxy remain because current instrumentation available to astronomers don't provide clear enough images of CQ 4479.
+
+"The image we have shows a central blob and then a little smaller blob below it," Kirkpatrick said. "So we don't have a good sense for how this galaxy looks because the central AGN is so bright that it out shines the rest of the host galaxy. This is a real problem that plagues all AGN studies -- when you're dealing with the most luminous things they tend to outshine your host at nearly every wavelength."
+
+The researchers said CQ 4479 would require more study, particularly using the ALMA Observatory and the NASA's James Webb Space Telescope -- the most powerful space telescope ever designed and currently slated for launch Oct. 31, 2021. Both Cooke and Kirkpatrick hope to perform more investigations of the strange cold quasar once the telescope is launched.
+
+"We're currently banking on James Webb, because it will have excellent resolution and we should be able to look at wavelengths where we can see the shape of the galaxy," Kirkpatrick said. "Another good option would be ALMA. But ALMA has unfortunately shut down temporarily because of COVID. We've kind of been stymied at seeing the host galaxy."
+
+The importance of understanding the strange processes underway in a galaxy 5.25 billion light years from Earth might seem vague at first, but Cooke said a better understanding of the cold quasar could improve understanding of the cosmos and the fate of our own galaxy.
+
+"This very much ties into asking 'where do we come from?' and 'what processes were involved in the creation of galaxies?,' and that's important because we live in a galaxy," Cooke said. "We live in one of these vast collections of billions of stars and knowing the processes of what created our home is valuable information. Trying to understand big ticket questions like these also spur important engineering developments here on Earth, such as the detector technology and all the fancy engineering that goes into the SOFIA telescope -- there are plenty of ways how this type of work it benefits us here on Earth."
+
+source 
+
+https://www.sciencedaily.com/releases/2020/11/201130113555.htm

@@ -1,0 +1,18 @@
+introduct
+To develop vaccines and investigate human immune responses, scientists rely on a variety of animal models, including mice that can produce human antibodies through genetically engineered B cell receptors, which are specialized antibodies bound to the B cell membrane. These mice, however, often take several years to develop, requiring a complicated process of genetic modification and careful breeding.
+
+"The time it takes to generate these specialized mice has been a major factor in delaying vaccine development," says Facundo Batista, PhD, associate director of the Ragon Institute of MGH, MIT and Harvard. "With the recent advances in gene editing technology like CRISPR/Cas9, we knew there had to be a way to speed up this process significantly."
+
+Batista's group has developed a new method for generating mouse lines for pre-clinical vaccine evaluation that dramatically shortens this timeline. In a study published recently in the journal EMBO, this one-step method, which uses CRISPR/Cas9 technology, can produce mice with genetically engineered human B cell receptors in just a few weeks.
+
+To test this technology, the researchers engineered mice to have human B cell receptors that are precursors to what are called broadly neutralizing HIV antibodies. These antibodies are known to be effective in combating HIV, but they are difficult to stimulate through vaccination. The precursors responded to an antigen currently being used in clinical HIV trials by generating broadly neutralizing antibody-like mutations. The ability to quickly evaluate the ability of different antigens to active these precursors has the potential to significantly accelerate vaccine development.
+
+The engineered B cells were not just capable of making high-quality antibodies; some became a specialized form of B cell known as memory B cells, which are used to maintain long-lasting immunity once antibodies are produced against a pathogen. This means the mice can likely be used to quickly validate good candidate vaccines for HIV and other pathogens.
+
+"This new technique may allow scientists studying vaccines and antibody evolution to tremendously speed up their research," says Ragon research fellow Xuesong Wang, PhD, co-first author on the paper.
+
+Rashmi Ray, PhD, also co-first author and a Ragon research fellow, agrees: "It will allow researchers to respond much more quickly and flexibly to new developments in the field."
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201214123538.htm

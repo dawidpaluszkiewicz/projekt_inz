@@ -1,0 +1,17 @@
+introduct
+
+Anyone entering the world of quantum physics must prepare themself for quite a few things unknown in the everyday world: Noble gases form compounds, atoms behave like particles and waves at the same time and events that in the macroscopic world exclude each other occur simultaneously.
+
+In the world of quantum physics, Reinhard Dörner and his team are working with molecules which -- in the sense of most textbooks -- ought not to exist: Helium compounds with two atoms, known as helium dimers. Helium is called a noble gase precisely because it does not form any compounds. However, if the gas is cooled down to just 10 degrees above absolute zero (minus 273 °C) and then pumped through a small nozzle into a vacuum chamber, which makes it even colder, then -- very rarely -- such helium dimers form. These are unrivaledly the weakest bound stable molecules in the Universe, and the two atoms in the molecule are correspondingly extremely far apart from each other. While a chemical compound of two atoms commonly measures about 1 angstrom (0.1 nanometres), helium dimers on average measure 50 times as much, i.e. 52 angstrom.
+
+The scientists in Frankfurt irradiated such helium dimers with an extremely powerful laser flash, which slightly twisted the bond between the two helium atoms. This was enough to make the two atoms fly apart. They then saw -- for the very first time -- the helium atom flying away as a wave and record it on film.
+
+According to quantum physics, objects behave like a particle and a wave at the same time, something that is best known from light particles (photons), which on the one hand superimpose like waves where they can pile upor extinguish each other (interference), but on the other hand as "solar wind" can propel spacecraft via their solar sails, for example.
+
+That the researchers were able to observe and film the helium atom flying away as a wave at all in their laser experiment was due to the fact that the helium atom only flew away with a certain probability: With 98 per cent probability it was still bound to its second helium partner, with 2 per cent probability it flew away. These two helium atom waves -- Here it comes! Quantum physics! -- superimpose and their interference could be measured.
+
+The measurement of such "quantum waves" can be extended to quantum systems with several partners, such as the helium trimer composed of three helium atoms. The helium trimer is interesting because it can form what is referred to as an "exotic Efimov state," says Maksim Kunitski, first author of the study: "Such three-particle systems were predicted by Russian theorist Vitaly Efimov in 1970 and first corroborated on caesium atoms. Five years ago, we discovered the Efimov state in the helium trimer. The laser pulse irradiation method we've now developed might allow us in future to observe the formation and decay of Efimov systems and thus better understand quantum physical systems that are difficult to access experimentally."
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201223125734.htm

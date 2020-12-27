@@ -1,0 +1,19 @@
+introduct
+
+The uniquely human ability to read is the cornerstone of modern civilization, yet very little is understood about the effortless ability to derive meaning from written words. Scientists at The University of Texas Health Science Center at Houston (UTHealth) have now identified a crucial region in the temporal lobe, know as the mid-fusiform cortex, which appears to act as the brain's visual dictionary. While reading, the ability of the human brain to distinguish between a real word such as "lemur" and a made-up word like "urmle" appears to lie in the way that region processes information.
+
+These findings were published today in Nature Human Behavior.
+
+"How much the mid-fusiform responds to a word and how quickly it can distinguish between a real and made-up word is highly dependent on how frequently the real word is encountered in everyday language," said Nitin Tandon, MD, senior author, professor and vice chair in the Vivian L. Smith Department of Neurosurgery at McGovern Medical School at UTHealth. "So short, common words like 'say' can be identified quickly but long, infrequent words like 'murmurings' take longer to be identified as real words."
+
+For the study, Nitin Tandon and postdoctoral fellow Oscar Woolnough, PhD, the lead author, used recordings from patients who had electrodes temporarily placed in their brains while undergoing treatment for epilepsy. These recordings were then used to create a visual representation of the early neural processing of written words.
+
+They found that this region, which has been overlooked in many previous studies of reading, compares incoming strings of letters encountered while reading with stored patterns of learned words. After words are identified in this area of the brain, this information is spread to other visual-processing regions of the brain.
+
+"Since word frequency is one of the main factors that determines how fast people can read, it is likely that the mid-fusiform acts as the bottleneck to reading speed," Tandon said. "We showed that if we temporarily disrupt activity in the mid-fusiform cortex using briefly applied electrical pulses, it causes a temporary inability to read, a dyslexia, but doesn't disrupt other language functions like naming visual objects or understanding speech."
+
+Tandon said the study serves to improve understanding of how people read and can help people with reading disorders such as dyslexia, the most common learning disability.
+
+source 
+
+https://www.sciencedaily.com/releases/2020/11/201130131421.htm

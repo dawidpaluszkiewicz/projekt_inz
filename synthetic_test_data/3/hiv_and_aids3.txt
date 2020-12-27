@@ -1,0 +1,25 @@
+introduct
+
+Researchers have developed an assay that can detect the presence of SARS-CoV-2 in a nasal swab using a device attached to an ordinary smartphone, they report December 4 in the journal Cell. Although more research is needed before such a test can be rolled out, the results are promising and ultimately may be applicable to screening more broadly for other viruses.
+
+"Our study shows that we can do the detection part of this assay very quickly, making the measurement with mass-produced consumer electronics," says Daniel Fletcher, a bioengineer at the University of California in Berkeley and co-senior author on the paper. "We don't need fancy laboratory equipment."
+
+Fletcher and other co-senior author Melanie Ott, a virologist at Gladstone Institutes and the University of California, San Francisco, began collaborating with Nobel laureate Jennifer Doudna, also a co-author on the study, about two years ago on a rapid, at-home test for HIV. They were looking to address the need for frequent testing that has arisen because of current drug trials that require close monitoring of patients' viral loads. When COVID-19 hit the scene in January, they quickly pivoted their research to develop a test that would detect the presence of a different virus -- SARS-CoV-2.
+
+The test makes use of CRISPR-Cas technology. Specifically, RNA in the sample can be detected with the Cas13 enzyme, eliminating the need for reverse transcription of the RNA into DNA and then amplification by PCR technology used in current standard tests. When Cas13 binds to the RNA from the virus, it cleaves any surrounding RNA sequences; the researchers added an RNA-based probe to the reaction that gets cleaved and produces fluorescence that can be detected with the camera. The assay provides results within 30 minutes of detection time.
+
+In the current study, which was primarily designed to be a test of the amplification-free CRISPR-Cas technology and the detector, the nasal swabs were spiked with SARS-CoV-2 RNA. The investigators are currently working on a solution that would induce a single-step reaction in which the RNA is released from the virus without the need for purification. Because it doesn't require amplification, the assay is able to quantify the amount of virus in the sample.
+
+"It's super exciting to have this quantitative aspect in the assay," Ott says. "PCR is the gold standard, but you have to go through so many steps. There are huge opportunities here for pathogens and for biology in general to make RNA quantification more precise."
+
+The fluorescence detector consists of a laser to produce illumination and excite the fluorescence and an added lens to help collect light. The phone is placed on top of it. "One takeaway is that the phone camera is ten times better than the plate reader in the lab," Ott says. "This is directly translatable to it being a better diagnosis reader." Previous research in Fletcher's lab has led to phone-based devices that visually detect parasites in blood and other samples, and the current assay demonstrates how phone cameras can also be useful for molecular detection.
+
+Ultimately, Fletcher and Ott would like to have this type of test be part of a broader system that could be used at home to screen not only for SARS-CoV-2 but other viruses -- like those that cause colds and flu. But more immediately, the researchers hope to develop a testing device using this technology that could be rolled out to pharmacies and drop-in clinics. They would like to get the cost of testing cartridges down to about $10. The final device would probably not actually use a phone but have a phone camera built into it.
+
+Ott notes that what they've learned developing this SARS-CoV-2 test can also be applied to their work with HIV tests. "We will need to change the extraction methods because we'll be dealing with blood instead of nasal swabs, but it's really helpful that we've developed the fluorescent detection part," she says. "This is the start of an era when we can give the individual more authority and autonomy" in terms of being able to test themselves.
+
+The researchers were primarily supported by the National Institutes of Health.
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201205143454.htm

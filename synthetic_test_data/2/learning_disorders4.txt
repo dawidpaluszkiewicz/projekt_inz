@@ -1,0 +1,23 @@
+introduct
+
+Individuals with high ADHD-traits that do not meet the criteria for a diagnosis are less able to perform tasks involving attentional regulation or emotional control after a sleepless night than individuals with low ADHD-traits, a new study from Karolinska Institutet published in Biological Psychiatry: Cognitive Neuroscience and Neuroimaging reports.
+
+While it can cause multiple cognitive impairments, there is considerable individual variation in sensitivity to the effects of insomnia. The reason for this variability has been an unresolved research question for long. In the present study, KI researchers investigated how sleep deprivation affects our executive functions, which is to say the central cognitive processes that govern our thoughts and actions. They also wanted to ascertain if people with ADHD tendencies are more sensitive to insomnia, with more severe functional impairments as a result.
+
+ADHD (attention deficit hyperactivity disorder) is characterized by inattention, impulsiveness and hyperactivity; however, the symptoms vary from person to person and often also include emotional instability.
+
+"You could say that many people have some subclinical ADHD-like symptoms but a diagnosis is only made once the symptoms become so prominent that they interfere with our everyday lives," says Predrag Petrovic, consultant and associate professor in psychiatry at the Department of Clinical Neuroscience at Karolinska Institutet, Sweden, who led the study along with Tina Sundelin and John Axelsson, both researchers at Karolinska Institutet and the Stress Research Institute at Stockholm University.
+
+The study included 180 healthy participants between the ages of 17 and 45 without an ADHD diagnosis. Tendencies towards inattentiveness and emotional instability were assessed on the Brown Attention Deficit Disorder (B-ADD) scale.
+
+The participants were randomly assigned to two groups, one that was allowed to sleep normally and one that was deprived of sleep for one night. They were then instructed to perform a test that measures executive functions and emotional control the following day (a Stroop test with neutral and emotional faces).
+
+The researchers found that the sleep-deprived group showed worse performance in the experimental tasks (including more cognitive response variability). Moreover, people with high ADHD-traits were more vulnerable to sleep deprivation and showed greater impairment than those with low ADHD-traits.
+
+The effects were also related to the most prominent type of subclinical ADHD-like symptom, in that after being deprived of sleep, the participants who displayed more everyday problems with emotional instability had larger problems with the cognitive task involving emotional regulation, and those who had more everyday inattention symptoms had larger problems with the non-emotional cognitive task.
+
+"One of the reasons why these results are important is that we know that young people are getting much less sleep than they did just ten years ago," explains Dr Petrovic. "If young people with high ADHD-traits regularly get too little sleep they will perform worse cognitively and, what's more, their symptoms might even end up at a clinically significant level."
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201218084147.htm

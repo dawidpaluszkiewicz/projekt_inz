@@ -1,0 +1,20 @@
+introduct
+
+
+Researchers from the University of Tsukuba applied seismic data from around the world to build a model of the 2020 Caribbean earthquake. Oceanic transform faults are generally considered to be linear and simple and have been widely used in studies of earthquake dynamics. However, the research team found that high complexity in rupture speed and direction can occur even in a supposedly simple linear fault system.
+
+On 28 January 2020, a large oceanic earthquake with magnitude 7.7 occurred at the Oriente transform fault in the Caribbean Sea, between Jamaica and Cuba. It caused a minor tsunami of 0.11 m height and was felt as far afield as Florida.
+
+A research team at the University of Tsukuba have developed a new finite-fault inversion method for building models based on teleseismic waveform data from earthquake monitoring stations. This new approach to using the data takes a more flexible approach to resolving the fault geometry. Rather than relying on prior assumptions, the faulting components are separately evaluated in a wider model in both time and space, allowing all possible rupture evolutions to be considered. The team were keen to use the Caribbean earthquake to help to understand the faulting processes that occur during these shallow oceanic quakes.
+
+"Some cases of complex rupture dynamics have recently been reported in previous earthquake studies, raising the question of whether or not we are correctly modeling these even in supposedly simple fault systems," says study author Professor Yuji Yagi. "The initial monitoring of this January 2020 event suggested variations in the waveform shape between two stations at similar distances from the epicenter, suggesting that there remains complexity to be explored at this fault."
+
+This was an excellent opportunity to test the new method developed by the team, which used data from 52 seismic stations to construct a detailed model of the geophysical processes within the fault that gave rise to the earthquake.
+
+"The results revealed complex rupture during the earthquake, caused by a bend in the fault that led to the changes in rupture speed and direction detected in the monitoring data," explains author Professor Ryo Okuwaki. "These variations triggered several successive rupture episodes that occurred along the 300-km-long fault." The modeling approach also allows some suggestions to be made about the possible occurrence of subsidence and the shape of the surrounding seabed following the earthquake event.
+
+These findings reveal that oceanic transform faults, considered to be simple and linear, may be much more complicated than previously accepted, and therefore require a more comprehensive approach to earthquake modeling. This work will shed light on a possible interaction between the earthquake-fault motion and the evolution of the ocean floor around the transform boundary.
+
+source
+
+https://www.sciencedaily.com/releases/2020/12/201221121754.htm

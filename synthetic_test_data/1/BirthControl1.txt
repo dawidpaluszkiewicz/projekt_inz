@@ -1,0 +1,39 @@
+introduct
+
+Widespread use of contraceptives and, to a lesser extent, girls' education through at least age 14 have the greatest impact in bringing down a country's fertility rate.
+
+Education and family planning have long been tied to lower fertility trends. But new research from the University of Washington analyzes those factors to determine, what accelerates a decline in otherwise high-fertility countries.
+
+In a paper published July 23 in Population and Development Review, Daphne Liu, a doctoral student in statistics at the UW, and Adrian Raftery, a UW professor of statistics and sociology, explore two nuanced questions: Is increasing contraceptive use or reducing demand more effective in family planning? And, is it the number of years girls attend school or the overall enrollment of children in school that makes education a factor in fertility?
+
+"Policymakers in countries with high fertility rates are often interested in accelerating their fertility decline, since rapid population growth can lead to a number of unwanted economic, environmental and public health consequences," said Liu. "Policies that increase access to education and family planning are generally thought to accelerate fertility decline by empowering individuals, particularly girls and women, to achieve their own desires in life. Our work aims to explore what aspects of a country's education and family planning have the greatest impact on fertility decline."
+
+As the world's population builds toward a projected 10.9 billion by 2100, much of that growth is expected to occur in high-fertility countries of Latin America, Asia and sub-Saharan Africa. The United Nations' Sustainable Development Goals note the role sustainable fertility can play in a country's environmental, economic and population health, alongside the ways family planning can enable individuals to realize their own fertility goals.
+
+Higher fertility rates can stretch a country's available resources, while rates lower than the "replacement rate" of 2.1 births per woman can lead to a long-term lack of economic growth. Today's global fertility rate of 2.5 births per woman is down from 3.2 in 1990, but is higher in parts of the world where some countries report fertility rates of at least 4 births per woman.
+
+Liu and Raftery's study uses UN data on fertility rates since 1970 and combines it with data on education and contraception to determine which factors have the greatest effect. All the countries in their study sample were categorized as transitioning downward, however slowly, from a period of high fertility.
+
+Within the category of family planning, Liu and Raftery looked at two factors over time: contraceptive prevalence, which is the percentage of women using modern contraception; and unmet need, the percentage of women who say they want to delay or stop childbearing but are not using contraception. While the difference between the two metrics may appear small, Liu pointed out that unmet need can reflect hypothetical interest in family planning, whereas contraceptive prevalence reflects actual use. The study found that contraceptive prevalence had a significantly greater effect.
+
+For example, data from El Salvador shows that the link between an increase in contraceptive use and a corresponding decline in fertility rate is especially pronounced. The country's total fertility rate went from 5.44 births per woman in the mid-1970s -- when 28% of women used birth control -- to 2.72 births in the mid-2000s, when contraceptive prevalence had more than doubled.
+
+Liu and Raftery also wanted to look at the effect of education on fertility changes. For this, they examined two different aspects of education, both tied to cultural values and economic outcomes: school enrollment and the highest level of education girls typically attain. The latter stems from the academic and professional opportunities available to women and girls, which may affect their childbearing decisions. The former has been hypothesized to affect fertility because if more children go to school, it is more expensive to bring them up, which may discourage families from having more children.
+
+Liu and Raftery found that education affected fertility mostly through the educational attainment of girls, particularly through their early teens (the "lower secondary" level of schooling). Generally considered the last stage of basic education, completing at least the lower secondary level had a greater effect on fertility decline than completing only primary schooling.
+
+Kenya showed a substantial increase in girls' educational attainment, from 12% reaching the lower secondary level in the mid-1970s to 59% in the mid-2010s. Contraceptive prevalence in Kenya also grew steadily, from 5% to 51%, while the total fertility rate dropped from 7.64 births per woman to 4.06.
+
+Still, of the two factors -- family planning and education -- family planning played a bigger role in accelerating the transition. "It is important to know that family planning is so critical," said Raftery. "However, both factors are important and they work together. Education gives women more opportunities as alternatives to having large families, while family planning gives them the means to achieve their goals."
+
+Overall, sub-Saharan Africa, where the highest-fertility countries are located, showed reductions in fertility but at a slower pace than other high-fertility regions of the world. This may be associated with economic development and cultural values around family size, as well as the quality of education. In line with the UN Sustainable Development Goals, policymakers and NGOs should continue to focus on education and on availability and acceptance of contraceptives for women, the researchers said.
+
+The study was funded by the National Institute for Child Health and Human Development.
+
+
+
+
+
+source
+
+https://www.sciencedaily.com/releases/2020/09/200908170532.htm

@@ -1,0 +1,16 @@
+introduct
+
+Analytical optical methods are vital to our modern society as they permit the fast and secure identification of substances within solids, liquids or gases. These methods rely on light interacting with each of these substances differently at different parts of the optical spectrum. For instance, the ultraviolet range of the spectrum can directly access electronic transitions inside a substance while the terahertz is very sensitive to molecular vibrations.
+
+Throughout the years many techniques have been developed to achieve hyperspectral spectroscopy and imaging, allowing scientists to observe the behavior of, for example, molecules when they fold, rotate or vibrate in order to understand the identification of cancer markers, greenhouse gases, pollutants or even substances that could be harmful to us. These ultrasensitive techniques have proven to be very useful in applications related to food inspection, biochemical sensing or even in cultural heritage, to investigate the structure of the materials used for ancient objects, paintings or sculptures.
+
+A standing challenge has been the absence of compact sources that cover such large spectral range with sufficient brightness. Synchrotrons provide the spectral coverage, but they lack the temporal coherence of lasers, and such sources are available only in large-scale user facilities.
+
+Now, in a recent study published in Nature Photonics, an international team of researchers from ICFO, the Max Planck Institute for the Science of Light, the Kuban State University, and the Max-Born-Institute for Nonlinear Optics and Ultrafast Spectroscopy, led by ICREA Prof. at ICFO Jens Biegert, report on a compact high-brightness mid-IR-driven source combining a gas-filled anti-resonant-ring photonic crystal fiber with a novel nonlinear-crystal. The table top source provides a seven-octave coherent spectrum from 340 nm to 40,000 nm with spectral brightness 2-5 orders of magnitude higher than one of the brightest Synchrotron facilities.
+
+Future research will leverage the few-cycle pulse duration of the source for the time-domain analysis of substances and materials, thus opening new opportunities for multimodal measurement approaches in areas such as molecular spectroscopy, physical chemistry or solid-state physics, to name a few.
+
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201223125712.htm

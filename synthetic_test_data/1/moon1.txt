@@ -1,0 +1,38 @@
+introduct
+
+The first mining experiments conducted in space could pave the way for new technologies to help humans explore and establish settlements on distant worlds, a study suggests.
+
+Tests performed by astronauts on the International Space Station suggest that bacteria can extract useful materials from rocks on Mars and the Moon.
+
+The findings could aid efforts to develop ways of sourcing metals and minerals -- such as iron and magnesium -- essential for survival in space.
+
+Bacteria could one day be used to break rocks down into soil for growing crops, or to provide minerals for life support systems that produce air and water, researchers say.
+
+Matchbox-sized mining devices -- called biomining reactors -- were developed by scientists at the UK Centre for Astrobiology at the University of Edinburgh over a 10-year period.
+
+Eighteen of the devices were transported to the space station -- which orbits the Earth at an altitude of around 250 miles -- aboard a SpaceX rocket launched from Cape Canaveral in Florida, US, in July 2019.
+
+Small pieces of basalt -- a common rock on the Moon and Mars -- were loaded into each device and submerged in bacterial solution. The three-week experiment was conducted under space gravity conditions to simulate environments on Mars and the Moon.
+
+The team's findings suggest bacteria could enhance the removal of rare earth elements from basalt in lunar and Martian landscapes by up to around 400 per cent. Rare earth elements are widely used in technologies including mobile phones, computers and magnets.
+
+Microbes are also routinely used on Earth in the process of so-called biomining to extract economically useful elements such as copper and gold from rocks. The new experiments have also provided new data on how gravity influences the growth of communities of microbes here on Earth, researchers say.
+
+The study, published in the journal Nature Communications, received funding from the UK Space Agency and the European Space Agency. The research was supported by the Science and Technology Facilities Council, part of UK Research and Innovation. The miniature mining reactors used in the experiment were built by engineering company Kayser Italia.
+
+Professor Charles Cockell, of the University of Edinburgh's School of Physics and Astronomy, who led the project, said: "Our experiments lend support to the scientific and technical feasibility of biologically enhanced elemental mining across the Solar System. While it is not economically viable to mine these elements in space and bring them to Earth, space biomining could potentially support a self-sustaining human presence in space.
+
+"For example, our results suggest that the construction of robotic and human-tended mines in the Oceanus Procellarum region of the Moon, which has rocks with enriched concentrations of rare earth elements, could be one fruitful direction of human scientific and economic development beyond Earth."
+
+Dr Rosa Santomartino, a postdoctoral scientist in the University's School of Physics and Astronomy, who worked on the project, said: "Microorganisms are very versatile and as we move into space, they can be used to accomplish a diversity of processes. Elemental mining is potentially one of them."
+
+Libby Jackson, Human Exploration Programme Manager at the UK Space Agency, said: "It is wonderful to see the scientific findings of BioRock published. Experiments like this is show how the UK, through the UK Space Agency, is playing a pivotal role in the European Space Agency's exploration programme.
+
+"Findings from experiments like BioRock will not only help develop technology that will allow humans to explore our Solar System further, but also helps scientists from a wide range of disciplines gain knowledge that can benefit all of us on Earth."
+
+
+source
+
+https://www.sciencedaily.com/releases/2020/11/201110112534.htm
+
+

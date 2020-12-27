@@ -1,0 +1,36 @@
+introduct
+
+Researchers at the University of Dundee have developed an unrivalled, fully automated robotic screening system which allows them to rapidly test the effect of drugs and other chemicals on human sperm.
+
+The research team at Dundee, led by Professor Chris Barratt and Dr Paul Andrews, are working towards finding a safe and effective male contraceptive.
+
+Results of their latest study, funded by the Bill & Melinda Gates Foundation, are published in the journal eLife.
+
+One of the most critical functions for sperm is to move to the site of fertilisation and this paper reports the results of a systematic search for drugs that block sperm motility.
+
+The Dundee team screened one of the world's largest collections of previously approved and clinically tested drugs, around 13,000 in total. The researchers accessed this collection, the ReFRAME collection, through a collaboration with Calibr, part of the Scripps Research Institute, as a way to fast-track development of a safe and effective male contraceptive.
+
+The outcome of the study shows that it is possible to find effective agents that halt the sperm in its tracks and further work will be done to investigate if any of these are suitable for long term use in the male.
+
+Chris Barratt, Professor of Reproductive Medicine in the School of Medicine, said, "This is a breakthrough in technology for the area. It allows us for the first time to assess in large numbers how compounds can affect sperm function. Surprisingly there has been no effective, reversible and widely available form of contraception developed for the male since the condom and, as such, the burden falls largely to the female.
+
+"Finding an effective male contraceptive would be a major step in addressing that inequality."
+
+There is an urgent need to develop new methods for male contraception, however drug discovery efforts have been hampered for a variety of reasons. Firstly, by the relatively poor understanding of human sperm biology. Secondly, by the lack of studies that convincingly link a protein target in human sperm to the key functions that sperm must carry out after leaving the male, and thirdly the absence of an efficient system to screen the effects of the myriad chemicals and known drugs that are available.
+
+To address these deficits, the researchers at Dundee developed a miniaturised parallel testing system run by a robot that uses a fast microscope and image-processing tools that precisely track the very fast movement of human sperm, thus allowing the effects of drugs to be accurately measured.
+
+Dr Paul Andrews, who leads the National Phenotypic Screening Centre (NPSC) in Dundee said, "The conventional way to test drugs for contraceptive activity is prohibitively time-consuming. Through the hard work of the multi-disciplinary research team in Dundee, we have managed to develop a disruptive technology platform we hope will be a game changer.
+
+"This new system speeds up the process of drug hunting several thousand-fold. The automated system also uses a different method to examine the effects of drugs on a second critical aspect required for fertilisation, called the acrosome reaction. This dual platform now allows for major drug discovery programmes that address the critical gap in the contraceptive portfolio as well as uncover novel human sperm biology.
+
+"By using live human sperm and examining their behaviour, or phenotype, in the presence of drugs and other chemicals, we hope to circumvent the need to second-guess which proteins are important for the cellular processes underlying sperm's fertilisation capacity."
+
+Contraception is a critical area for research as, according to the Guttmacher Institute, there are 89 million unintended pregnancies and 48 million abortions every year, often pushing women into life choices that increase poverty and pose severe health risks. The development of a drug for the male directly addresses a critical gap in the contraceptive portfolio.
+
+The University of Dundee is uniquely positioned to do this work. It combines the internationally recognised expertise in male fertility research in the School of Medicine with world-class robotic high-throughput imaging facilities at the National Phenotypic Screening Centre and the deep knowledge of drug design, synthesis and safety testing present in the Drug Discovery Unit, both within the School of Life Sciences.
+
+
+source
+
+https://www.sciencedaily.com/releases/2020/01/200128095516.htm

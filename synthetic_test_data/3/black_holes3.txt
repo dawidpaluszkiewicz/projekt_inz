@@ -1,0 +1,15 @@
+introduct
+
+Earth just got 7 km/s faster and about 2000 light-years closer to the supermassive black hole in the center of the Milky Way Galaxy. But don't worry, this doesn't mean that our planet is plunging towards the black hole. Instead the changes are results of a better model of the Milky Way Galaxy based on new observation data, including a catalog of objects observed over the course of more than 15 years by the Japanese radio astronomy project VERA.
+
+VERA (VLBI Exploration of Radio Astrometry, by the way "VLBI" stands for Very Long Baseline Interferometry) started in 2000 to map three-dimensional velocity and spatial structures in the Milky Way. VERA uses a technique known as interferometry to combine data from radio telescopes scattered across the Japanese archipelago in order to achieve the same resolution as a 2300 km diameter telescope would have. Measurement accuracy achieved with this resolution, 10 micro-arcseconds, is sharp enough in theory to resolve a United States penny placed on the surface of the Moon.
+
+Because Earth is located inside the Milky Way Galaxy, we can't step back and see what the Galaxy looks like from the outside. Astrometry, accurate measurement of the positions and motions of objects, is a vital tool to understand the overall structure of the Galaxy and our place in it. This year, the First VERA Astrometry Catalog was published containing data for 99 objects.
+
+Based on the VERA Astrometry Catalog and recent observations by other groups, astronomers constructed a position and velocity map. From this map they calculated the center of the Galaxy, the point that everything revolves around. The map suggests that the center of the Galaxy, and the supermassive black hole which resides there, is located 25800 light-years from Earth. This is closer than the official value of 27700 light-years adopted by the International Astronomical Union in 1985. The velocity component of the map indicates that Earth is travelling at 227 km/s as it orbits around the Galactic Center. This is faster than the official value of 220 km/s.
+
+Now VERA hopes to observe more objects, particularly ones close to the central supermassive black hole, to better characterizes the structure and motion of the Galaxy. As part of these efforts VERA will participate in EAVN (East Asian VLBI Network) comprised of radio telescope located in Japan, South Korea, and China. By increasing the number of telescopes and the maximum separation between telescopes, EAVN can achieve even higher accuracy.
+
+source 
+
+https://www.sciencedaily.com/releases/2020/11/201130101241.htm

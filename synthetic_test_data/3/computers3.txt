@@ -1,0 +1,15 @@
+introduct
+
+Researchers at the George Washington University, together with researchers at the University of California, Los Angeles, and the deep-tech venture startup Optelligence LLC, have developed an optical convolutional neural network accelerator capable of processing large amounts of information, on the order of petabytes, per second. This innovation, which harnesses the massive parallelism of light, heralds a new era of optical signal processing for machine learning with numerous applications, including in self-driving cars, 5G networks, data-centers, biomedical diagnostics, data-security and more.
+
+Global demand for machine learning hardware is dramatically outpacing current computing power supplies. State-of-the-art electronic hardware, such as graphics processing units and tensor processing unit accelerators, help mitigate this, but are intrinsically challenged by serial data processing that requires iterative data processing and encounters delays from wiring and circuit constraints. Optical alternatives to electronic hardware could help speed up machine learning processes by simplifying the way information is processed in a non-iterative way. However, photonic-based machine learning is typically limited by the number of components that can be placed on photonic integrated circuits, limiting the interconnectivity, while free-space spatial-light-modulators are restricted to slow programming speeds.
+
+To achieve a breakthrough in this optical machine learning system, the researchers replaced spatial light modulators with digital mirror-based technology, thus developing a system over 100 times faster. The non-iterative timing of this processor, in combination with rapid programmability and massive parallelization, enables this optical machine learning system to outperform even the top-of-the-line graphics processing units by over one order of magnitude, with room for further optimization beyond the initial prototype.
+
+Unlike the current paradigm in electronic machine learning hardware that processes information sequentially, this processor uses the Fourier optics, a concept of frequency filtering which allows for performing the required convolutions of the neural network as much simpler element-wise multiplications using the digital mirror technology. 
+
+"Optics allows for processing large-scale matrices in a single time-step, which allows for new scaling vectors of performing convolutions optically. This can have significant potential for machine learning applications as demonstrated here."  said Puneet Gupta, professor & vice chair of computer engineering at UCLA.
+
+
+source 
+https://www.sciencedaily.com/releases/2020/12/201218131856.htm

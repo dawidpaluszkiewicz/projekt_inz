@@ -1,0 +1,27 @@
+introduct
+
+A mathematical model that can help project the contagiousness and spread of infectious diseases like the seasonal flu may not be the best way to predict the continuing spread of the novel coronavirus, especially during lockdowns that alter the normal mix of the population, researchers report.
+
+Called the R-naught, or basic reproductive number, the model predicts the average number of susceptible people who will be infected by one infectious person. It's calculated using three main factors -- the infectious period of the disease, how the disease spreads and how many people an infected individual will likely come into contact with.
+
+Historically, if the R-naught is larger than one, infections can become rampant and an epidemic or more widespread pandemic is likely. The COVID-19 pandemic had an early R-naught between two and three.
+
+In a letter published in Infection Control and Hospital Epidemiology, corresponding author Dr. Arni S.R. Srinivasa Rao, a mathematical modeler at the Medical College of Georgia at Augusta University, argues that while it's never possible to track down every single case of an infectious disease, the lockdowns that have become necessary to help mitigate the COVID-19 pandemic have complicated predicting the disease's spread.
+
+Rao and his co-authors instead suggest more of a dynamic, moment in time approach using a model called the geometric mean. That model uses today's number to predict tomorrow's numbers. Current number of infections -- in Augusta today, for example -- is divided by the number of predicted infections for tomorrow to develop a more accurate and current reproductive rate.
+
+While this geometric method can't predict long term trends, it can more accurately predict likely numbers for the short term.
+
+"The R-naught model can't be changed to account for contact rates that can change from day to day when lockdowns are imposed," Rao explains. "In the initial days of the pandemic, we depended on these traditional methods to predict the spread, but lockdowns change the way people have contact with each other."
+
+A uniform R-naught is also not possible since the COVID-19 pandemic has varied widely in different areas of the country and world. Places have different rates of infection, on different timelines -- hotspots like New York and California would have higher R-naughts. The R-naught also did not predict the current third wave of the COVID-19 pandemic.
+
+"Different factors continuously alter ground-level basic reproductive numbers, which is why we need a better model," Rao says. Better models have implications for mitigating the spread of COVID-19 and for future planning, the authors say.
+
+"Mathematical models must be used with care and their accuracy must be carefully monitored and quantified," the authors write. "Any alternative course of action could lead to wrong interpretation and mismanagement of the disease with disastrous consequences."
+
+Rao's co-authors include Dr. Steven Krantz, a professor of mathematics and statistics at Washington University and Dr. Michael Bonsall, a professor in the Mathematical Ecology Research Group, at the University of Oxford.
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201221134207.htm

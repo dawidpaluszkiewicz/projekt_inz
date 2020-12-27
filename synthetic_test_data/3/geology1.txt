@@ -1,0 +1,49 @@
+introduct
+
+The weathering of rocks at the Earth's surface may remove less greenhouse gases from the atmosphere than previous estimates, says new research from the University of Cambridge.
+
+The findings, published in PNAS, suggest Earth's natural mechanism for removing carbon dioxide (CO2) from the atmosphere via the weathering of rocks may in fact be weaker than scientists had thought -- calling into question the exact role of rocks in alleviating warming over millions of years.
+
+The research also suggests there may be a previously unknown sink drawing CO2 from the atmosphere and impacting climate changes over long timescales, which researchers now hope to find.
+
+Weathering is the process by which atmospheric carbon dioxide breaks down rocks and then gets trapped in sediment. It is a major part of our planet's carbon cycle, shuttling carbon dioxide between the land, sea and air, and influencing global temperatures.
+
+"Weathering is like a planetary thermostat -- it's the reason why Earth is habitable. Scientists have long suggested this is why we don't have a runaway greenhouse effect like on Venus," said lead author Ed Tipper from Cambridge's Department of Earth Sciences. By locking carbon dioxide away in sediments, weathering removes it from the atmosphere over long timescales, reducing the greenhouse effect and lowering global temperatures.
+
+The team's new calculations show that, across the globe, weathering fluxes have been overestimated by up to 28%, with the greatest impact on rivers in mountainous regions where rocks are broken down faster.
+
+They also report that three of the largest river systems on Earth, including the neighbouring Yellow and Salween Rivers with their origins on the Tibetan Plateau and the Yukon River of North America, do not absorb carbon dioxide over long timescales -- as had been thought.
+
+For decades the Tibetan plateau has been invoked as a long term sink for carbon and mediator of climate. Some 25% of the sediment in the world's oceans originate from the plateau.
+
+"One of the best places to study the carbon cycle are rivers, they are the arteries of the continents. Rivers are the link between the solid Earth and oceans -- hauling sediments weathered from the land down to the oceans where their carbon is locked up in rocks," said Tipper.
+
+"Scientists have been measuring the chemistry of river waters to estimate weathering rates for decades," said co-author Victoria Alcock "Dissolved sodium is one of the most commonly measured products of weathering -- but we've shown that it's not that simple, and in fact sodium often comes from elsewhere."
+
+Sodium is released when silicate minerals, the basic building blocks of most of Earth's rocks, dissolve in carbonic acid -- a mix of carbon dioxide in the atmosphere and rainwater.
+
+However, the team found not all sodium comes from this weathering process. "We've found an additional source of sodium in river waters across the globe," said co-author Emily Stevenson. "That extra sodium is not from weathered silicate rocks as other studies assume, but in fact from very old clays which are being eroded in river catchments."
+
+Tipper and his research group studied eight of the largest river systems on Earth, a mission involving 16 field seasons and thousands of lab analyses in search of where that extra sodium was coming from.
+
+They found the answer in a soupy 'gel' of clay and water -- known as the cation exchange pool -- which is carried along by muddy river sediment.
+
+The exchange pool is a reactive hive of cations -- positively charged ions like sodium -- which are weakly bonded to clay particles. The cations can easily swap out of the gel for other elements like calcium in river water, a process that can take just a few hours.
+
+Although it has been described in soils since the 1950s, the role the exchange pool plays in supplying sodium to rivers has been largely neglected.
+
+"The chemical and isotopic makeup of the clays in the exchange pool tell us what they are made of and where they've come from," said co-author Alasdair Knight. "We know that many of the clays carried by these rivers come from ancient sediments, and we suggest that some of the sodium in the river must come from these clays."
+
+The clays were originally formed from continental erosion millions of years ago. On their journey downstream they harvested cations from the surrounding water -- their exchange pool picking up sodium on reaching the sea. Today, after being uplifted from the seafloor, these ancient clays -- together with their sodium -- are now being eroded by modern rivers.
+
+This old sodium, which can switch out of the clays in the exchange pool and into river water, has previously been mistaken as the dissolved remnants of modern weathering.
+
+"Generating just one data point took a huge amount of work in the lab and we also had to do a lot of maths," said Stevenson. "It's like unmixing a cake, using a forensic approach to isolate key ingredients in the sediments, leaving behind the exchange pool and the clays. People have used the same methods for a really long time -- and they work -- but we've been able to find an extra ingredient that provides the sodium and we need to account for this."
+
+"It's thanks to the hard work of many collaborators and students over many years that our samples had the scope to get to grips with this complex chemical process at a global scale," said Tipper.
+
+Scientists are now left to puzzle over what else could be absorbing Earth's carbon dioxide over geological time. There are no certain candidates -- but one controversial possibility is that life is removing carbon from the atmosphere. Another theory is that silicate dissolution on the ocean floor or volcanic arcs may be important. "People have spent decades looking on the continents for weathering -- so maybe we now need to start expanding where we look," said Tipper.
+
+
+source 
+https://www.sciencedaily.com/releases/2020/12/201221160459.htm

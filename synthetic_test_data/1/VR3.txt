@@ -1,0 +1,45 @@
+introduct
+
+Think about your favorite t-shirt, the one you've worn a hundred times, and all the abuse you've put it through. You've washed it more times than you can remember, spilled on it, stretched it, crumbled it up, maybe even singed it leaning over the stove once.
+
+We put our clothes through a lot and if the smart textiles of the future are going to survive all that we throw at them, their components are going to need to be resilient.
+
+Now, researchers from the Harvard John A. Paulson School of Engineering and Applied Sciences and the Wyss Institute for Biologically Inspired Engineering have developed an ultra-sensitive, seriously resilient strain sensor that can be embedded in textiles and soft robotic systems.
+
+The research is published in Nature.
+
+"Current soft strain gauges are really sensitive but also really fragile," said Oluwaseun Araromi, a Research Associate in Materials Science and Mechanical Engineering at SEAS and the Wyss Institute and first author of the paper. "The problem is that we're working in an oxymoronic paradigm -- highly sensitivity sensors are usually very fragile and very strong sensors aren't usually very sensitive. So, we needed to find mechanisms that could give us enough of each property."
+
+In the end, the researchers created a design that looks and behaves very much like a Slinky.
+
+"A Slinky is a solid cylinder of rigid metal but if you pattern it into this spiral shape, it becomes stretchable," said Araromi. "That is essentially what we did here. We started with a rigid bulk material, in this case carbon fiber, and patterned it in such a way that the material becomes stretchable."
+
+The pattern is known as a serpentine meander, because its sharp ups and downs resemble the slithering of a snake. The patterned conductive carbon fibers are then sandwiched between two prestrained elastic substrates.
+
+The overall electrical conductivity of the sensor changes as the edges of the patterned carbon fiber come out of contact with each other, similar to the way the individual spirals of a slinky come out of contact with each other when you pull both ends. This process happens even with small amounts of strain, which is the key to the sensor's high sensitivity.
+
+Unlike current highly sensitive stretchable sensors, which rely on exotic materials such as silicon or gold nanowires, this sensor doesn't require special manufacturing techniques or even a clean room. It could be made using any conductive material.
+
+The researchers tested the resiliency of the sensor by stabbing it with a scalpel, hitting it with a hammer, running it over with a car, and throwing it in a washing machine ten times. The sensor emerged from each test unscathed.
+
+To demonstrate its sensitivity, the researchers embedded the sensor in a fabric arm sleeve and asked a participant to make different gestures with their hand, including a fist, open palm, and pinching motion. The sensors detected the small changes in the subject's forearm muscle through the fabric and a machine learning algorithm was able to successfully classify these gestures.
+
+"These features of resilience and the mechanical robustness put this sensor in a whole new camp," said Araromi.
+
+Such a sleeve could be used in everything from virtual reality simulations and sportswear to clinical diagnostics for neurodegenerative diseases like Parkinson's Disease.
+
+Harvard's Office of Technology Development has filed to protect the intellectual property associated with this project.
+
+"The combination of high sensitivity and resilience are clear benefits of this type of sensor," said Robert Wood, the Charles River Professor of Engineering and Applied Sciences at SEAS and senior author of the study. "But another aspect that differentiates this technology is the low cost of the constituent materials and assembly methods. This will hopefully reduce the barriers to get this technology widespread in smart textiles and beyond."
+
+"We are currently exploring how this sensor can be integrated into apparel due to the intimate interface to the human body it provides," says Conor Walsh, the Paul A. Maeder Professor of Engineering and Applied Sciences at SEAS and co-author of the study. "This will enable exciting new applications by being able to make biomechanical and physiological measurements throughout a person's day, not possible with current approaches."
+
+The research was co-authored by Moritz A. Graule, Kristen L. Dorsey, Sam Castellanos, Jonathan R. Foster, Wen-Hao Hsu, Arthur E. Passy, James C. Weaver, Senior Staff Scientist at SEAS and Joost J. Vlassak, the Abbott and James Lawrence Professor of Materials Engineering at SEAS.
+
+It was funded through the university's strategic research alliance with Tata. The 6-year, $8.4M alliance was established in 2016 to advance Harvard innovation in fields including robotics, wearable technologies, and the internet of things (IoT).
+
+
+
+source 
+
+https://www.sciencedaily.com/releases/2020/11/201111180643.htm

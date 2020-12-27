@@ -1,0 +1,42 @@
+introduct
+
+A team of researchers led by members of the Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) has analyzed previously collected data to infer the true nature of a compact object -- found to be a rotating magnetar, a type of neutron star with an extremely strong magnetic field -- orbiting within LS 5039, the brightest gamma-ray binary system in the Galaxy.
+
+Including former graduate student Hiroki Yoneda, Senior Scientist Kazuo Makishima and Principal Investigator Tadayuki Takahashi at the Kavli IMPU, the team also suggest that the particle acceleration process known to occur within LS 5039 is caused by interactions between the dense stellar winds of its primary massive star, and ultra-strong magnetic fields of the rotating magnetar.
+
+Gamma-ray binaries are a system of massive stars and compact stars. They were discovered only recently, in 2004, when observations of very-high-energy gamma-rays in the teraelectronvolt (TeV) band from large enough regions of the sky became possible. When viewed with visible light, gamma-ray binaries appear as bright bluish-white stars, and are indistinguishable from any other binary system hosting a massive star.
+
+However, when observed with X-rays and gamma-rays, their properties are dramatically different from those of other binaries. In these energy bands, ordinary binary systems are completely invisible, but gamma-ray binaries produce intense non-thermal emission, and their intensity appears to increase and decrease according to their orbital periods of several days to several years.
+
+Once the gamma-ray binaries were established as a new astrophysical class, it was quickly recognized that an extremely efficient acceleration mechanism should operate in them. While the acceleration of TeV particles requires tens of years in supernova remnants, which are renowned cosmic accelerators, gamma-ray binaries boost electron energy beyond 1 TeV in just tens of seconds. Gamma-ray binaries can thus be considered one of the most efficient particle accelerators in the Universe.
+
+In addition, some gamma-ray binaries are known to emit strong gamma-rays with energies of several megaelectron volts (MeV). Gamma-rays in this band are currently difficult to observe; they were detected from only around 30 celestial bodies in the whole sky. But the fact that such binaries emit strong radiation even in this energy band greatly adds to the mystery surrounding them, and indicates an extremely effective particle acceleration process going on within them.
+
+Around 10 gamma-ray binaries have been found in the Galaxy thus far -- compared to more than 300 X-ray binaries that are known to exist. Why gamma-ray binaries are so rare is unknown, and, indeed, what the true nature of their acceleration mechanism is, has been a mystery -- until now.
+
+Through previous studies, it was already clear that a gamma-ray binary is generally made of a massive primary star that weighs 20-30 times the mass of the Sun, and a companion star that must be a compact star, but it was not clear, in many cases, whether the compact star is a black hole or a neutron star. The research team started their attempt by figuring out which is generally the case.
+
+One of the most direct pieces of evidence for the presence of a neutron star is the detection of periodic fast pulsations, which are related to the neutron star rotation. Detection of such pulsation from a gamma-ray binary almost undoubtedly discards the black hole scenario.
+
+In this project, the team focused on LS 5039, which was discovered in 2005, and still keeps its position as the brightest gamma-ray binary in the X-ray and gamma-ray range. Indeed, this gamma-ray binary was thought to contain a neutron star because of its stable X-ray and TeV gamma-ray radiation.
+
+However, until now, attempts to detect such pulses had been conducted with radio waves and soft X-rays -- and because radio waves and soft X-rays are affected by the primary star's stellar winds, detection of such periodical pulses had not been successful.
+
+This time, for the first time, the team focused on the hard X-ray band (>10 keV) and observation data from LS 5039 gathered by the hard X-ray detector (HXD) on board the space-based telescopes Suzaku (between September 9 and 15, 2007) and NuSTAR (between September 1 and 5, 2016) -- indeed, the six-day Suzaku observation period was the longest yet using hard X-rays.
+
+Both observations, while separated by nine years, provided evidence of a neutron star at the core of LS 5039: the periodic signal from Suzaku with a period of about 9 seconds. The probability that this signal arises from statistical fluctuations is only 0.1 percent. NuSTAR also showed a very similar pulse signal, though the pulse significance was lower -- the NuSTAR data, for instance, was only tentative. By combining these results, it was also inferred that the spin period is increasing by 0.001 s every year.
+
+Based on the derived spin period and the rate of its increase, the team ruled out the rotation-powered and accretion-powered scenarios, and found that the magnetic energy of the neutron star is the sole energy source that can power LS 5039. The required magnetic field reaches 10^{11} T, which is 3 orders of magnitude higher than those of typical neutron stars.
+
+This value is found among so-called magnetars, a subclass of neutron stars which have such an extremely strong magnetic field. The pulse period of 9 seconds is typical of magnetars, and this strong magnetic field prevents the stellar wind of the primary star from being captured by a neutron star, which can explain why LS 5039 does not exhibit properties similar to X-ray pulsars (X-ray pulsars usually occur in X-ray binary systems, where the stellar winds are captured by its companion star).
+
+Interestingly, the 30 magnetars that have been found so far have all been found as isolated stars, so their existence in gamma-ray binaries was not considered a mainstream idea. Besides this new hypothesis, the team suggests a source that powers the non-thermal emission inside LS 5039 -- they propose that the emission is caused by an interaction between the magnetar's magnetic fields and dense stellar winds.
+
+Indeed, their calculations suggest that gamma-rays with energies of several megaelectronvolts, which has been unclear, can be strongly emitted if they are produced in a region of an extremely strong magnetic field, close to a magnetar.
+
+These results potentially settle the mystery as to the nature of the compact object within LS 5039, and the underlying mechanism powering the binary system. However, further observations and refining of their research is needed to shed new light on their findings.
+
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201202114517.htm

@@ -1,0 +1,32 @@
+introduct
+
+A new study from North Carolina State University finds that the environmental benefits of renewable power generation vary significantly, depending on the nature of the conventional power generation that the renewable energy is offsetting. The researchers hope the work will help target future renewable energy investments in places where they can do the most good.
+
+"For years, researchers have taken different approaches to try to assess the environmental benefits of renewable energy," says Harrison Fell, co-author of the study and an associate professor of energy economics at NC State. "The Energy Information Administration started releasing detailed data on renewable power generation in 2018, and we realized that we finally had an opportunity to address this issue using real-world data.
+
+"Our study is the first to quantify emissions reductions from solar and wind generation relying on renewable generation data across a broad array of regions, while also accounting for electricity trade between regions," Fell says.
+
+For the study, researchers drew on data from regions spanning the contiguous 48 states from July 2018 through March 2020.
+
+The big takeaway from the study is that the environmental value of renewable energy varies significantly. In other words, one megawatt hour (MWh) of renewable power varies depending on where that power was generated.
+
+"For example, one MWh of solar power produced in Florida reduces carbon dioxide emissions by about twice as much as one MWh of solar power produced in California," says Jeremiah Johnson, corresponding author of the study and an associate professor of civil, construction and environmental engineering at NC State. "That's because California already has a cleaner grid when compared to other regions. So offsetting an hour of conventional power generation in California reduces CO2 emissions less than offsetting an hour of conventional power generation in Florida."
+
+Why is that important?
+
+"In the near term, these findings give us insight into where we should target investments in renewable power in order to maximize the environmental benefits," Johnson says.
+
+But that wasn't the study's only finding.
+
+The researchers also found that environmental benefits often crossed regional lines. For example, renewable power generated in State A might be used to offset power generation in State B, meaning that State B might receive the environmental benefits of renewable power projects in State A.
+
+"Right now, renewable energy is largely driven by policies that vary from state to state," Fell says. "Our work here highlights one reason that this is not a very efficient approach to energy policy. A federal approach to renewable energy policy would be better able to account for the interstate nature of energy production, energy consumption and environmental benefits."
+
+The researchers note that this study is effectively a snapshot of where the nation's power sector is right now, and that investments in renewable power are likely to continue.
+
+"It will be interesting to see how the distribution of benefits changes as regions expand their sustainable energy infrastructure," Fell says.
+
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201214123626.htm

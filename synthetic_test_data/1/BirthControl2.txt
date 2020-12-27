@@ -1,0 +1,32 @@
+introduct
+
+A woman's genetic make-up may cause her to gain weight when using a popular form of birth control, according to a study from researchers at the University of Colorado Anschutz Medical Campus.
+
+"For years, women have said that birth control causes them to gain weight but many doctors failed to take them seriously," said the study's lead author Aaron Lazorwitz, MD, assistant professor of Obstetrics/Gynecology and Family Planning at the University of Colorado School of Medicine. "Now we have looked at the genetics and found that the way genes interact with some hormones in birth control could help explain why some women gain more weight than others."
+
+The study, published online today in the journal Contraception, specifically looked at the etonogestrel contraceptive implant. The rod-like implant, considered one of the most effective birth control methods, is inserted under the skin and contains etonogestrel a kind of progestin that inhibits ovulation.
+
+The researchers reviewed medical records to calculate weight changes from the insertion of the implant to the time when the women enrolled in the study. Out of 276 ethnically diverse subjects, they found a median weight change of +3.2 kg or about 7 pounds of weight gained over an average of 27 months of use. The majority or 73.9% of subjects experienced weight gain.
+
+Drawing on pharmacogenomics, the study of how genes affect a person's response to drugs, Lazorwitz and his colleagues investigated the genetics of the participants and how they might interact with the birth control drug within the implant.
+
+They hypothesized that variants in the genes encoding proteins that break down and interact with progestin and estrogen hormones might be the key. Ultimately, they found that genetic variants in estrogen receptor 1 (ESR1) among some study participants were associated with clinically significant weight gain.
+
+ESR1 is found on chromosome six. It encodes an estrogen receptor involved in cellular hormone binding and DNA transcription when activated. Previous studies also found associations between ESR1 genetic variants and how well other medications work.
+
+Women who had two copies of the ESR1 rs9340799 variant on average gained over 30 pounds more while using the contraceptive implant when compared to all other women in the study.
+
+The study focused on the etonogestrel contraceptive implant, but it is possible that other birth control drugs could have similar interactions with genes that lead to weight gain.
+
+"It is imperative to better understand how individual genetic variation may influence a woman's risk of adverse weight gain while using exogenous steroid hormone medications," Lazorwitz said.
+
+For now, there is no way to predict who might be impacted.
+
+Health care providers can offer counseling about potential weight gain or suggest other forms of birth control like copper IUDs which have no hormones.
+
+"As our understanding of pharmacogenomics in women's health expands, we can develop individualized counseling that may reduce the incidence of hormone-related adverse effects, improve patient satisfaction, and help prevent future health risks associated with weight gain," Lazorwitz said.
+
+
+source
+
+https://www.sciencedaily.com/releases/2020/05/200512134532.htm

@@ -1,0 +1,43 @@
+introduct
+
+Northwestern researchers have developed a new microscopy method that allows scientists to see the building blocks of "smart" materials being formed at the nanoscale.
+
+The chemical process is set to transform the future of clean water and medicines and for the first time people will be able to watch the process in action.
+
+"Our method allows us to visualize this class of polymerization in real time, at the nanoscale, which has never been done before," said Northwestern's Nathan Gianneschi. "We now have the ability to see the reaction taking place, see these nanostructures being formed, and learn how to take advantage of the incredible things they can do."
+
+The research was published today (Dec. 22) in the journal Matter.
+
+The paper is the result of a collaboration between Gianneschi, the associate director of the International Institute for Nanotechnology and the Jacob and Rosalind Cohn Professor of Chemistry in the Weinberg College of Arts and Sciences, and Brent Sumerlin, the George and Josephine Butler Professor of Polymer Chemistry in the College of Liberal Arts & Sciences at the University of Florida.
+
+Dispersion polymerization is a common scientific process used to make medicines, cosmetics, latex and other items, often on an industrial scale. And at the nanoscale, polymerization can be used to create nanoparticles with unique and valuable properties.
+
+These nanomaterials hold great promise for the environment, where they can be used to soak up oil spills or other pollutants without harming marine life. In medicine, as the foundation of "smart" drug delivery systems, it can be designed to enter human cells and release therapeutic molecules under specified conditions.
+
+There have been difficulties in scaling up production of these materials. Initially, production was hampered by the time-consuming process required to create and then activate them. A technique called polymerization-induced self-assembly (PISA) combines steps and saves time, but the molecules' behavior during this process has proven difficult to predict for one simple reason: Scientists were unable to observe what was actually happening.
+
+Reactions at the nanoscale are far too small to be seen with the naked eye. Traditional imaging methods can only capture the end result of polymerization, not the process by which it occurs. Scientists have tried to work around this by taking samples at various points in the process and analyzing them, but using only snapshots failed to tell the full story of chemical and physical changes occurring throughout the process.
+
+"It's like comparing a few photos of a football game to the information contained in a video of the whole game," said Gianneschi. "If you understand the pathway by which a chemical forms, if you can see how it occurred, then you can learn how to speed it up, and you can figure out how to perturb the process so you get a different effect."
+
+Transmission electron microscopy (TEM) is capable of taking images at a sub-nanometer resolution, but it is generally used for frozen samples, and doesn't handle chemical reactions as well. With TEM, an electron beam is fired through a vacuum, toward the subject; by studying the electrons that come out the other side, an image can be developed. However, the quality of the image depends on how many electrons are fired by the beam -- and firing too many electrons will affect the outcome of the chemical reaction. In other words, it's a case of the observer effect -- watching the self-assembly could alter or even damage the self-assembly. What you end up with is different from what you would have had if you weren't watching.
+
+To solve the problem, the researchers inserted the nanoscale polymer materials into a closed liquid cell that would protect the materials from the vacuum inside the electron microscope. These materials were designed to be responsive to changes in temperature, so the self-assembly would begin when the inside of the liquid cell reached a set temperature.
+
+The liquid cell was enclosed in a silicon chip with small, but powerful, electrodes that serve as heating elements. Embedded in the chip is a tiny window -- 200 x 50 nanometers in size -- that would allow a low-energy beam to pass through the liquid cell.
+
+With the chip inserted into the holder of the electron microscope, the temperature inside the liquid cell is raised to 60?C, initiating the self-assembly. Through the tiny window, the behavior of the block copolymers and the process of formation could be recorded.
+
+When the process was complete, Gianneschi's team tested the resulting nanomaterials and found they were the same as comparable nanomaterials produced outside a liquid cell. This confirmed that the technique -- which they call variable-temperature liquid-cell transmission electron microscopy (VC-LCTEM) -- can be used to understand the nanoscale polymerization process as it occurs under ordinary conditions.
+
+Of particular interest are the shapes that are generated during polymerization. At different stages the nanoparticles may resemble spheres, worms or jellyfish -- each of which confers different properties upon the nanomaterial. By understanding what is happening during self-assembly researchers can begin to develop methods to induce specific shapes and tune their effects.
+
+"These intricate and well-defined nanoparticles evolve over time, forming and then morphing as they grow," Sumerlin said. "What's incredible is that we're able to see both how and when these transitions occur in real time."
+
+Gianneschi believes that insights gained from this technique will lead to unprecedented possibilities for the development and characterization of self-organizing soft matter materials -- and scientific disciplines beyond chemistry.
+
+"We think this can become a tool that's useful in structural biology and materials science too," said Gianneschi. "By integrating this with machine learning algorithms to analyze the images, and continuing to refine and improve the resolution, we're going to have a technique that can advance our understanding of polymerization at the nanoscale and guide the design of nanomaterials that can potentially transform medicine and the environment."
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201222141537.htm

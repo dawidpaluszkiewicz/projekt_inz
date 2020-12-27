@@ -1,0 +1,21 @@
+introduct
+
+Scientists have shown that adding an experimental cancer drug to a widely used diabetes treatment improves blood glucose control and weight loss in mice, according to a study published today in eLife.
+
+The results pave the way for clinical studies of the new drug combination as a more effective long-term treatment for millions of people with diabetes and obesity.
+
+Glucagon-like peptide 1 agonists (GLP-1 analogs) are a relatively new class of drugs that reduce blood sugar levels and lower body weight. They partially function by binding to the glucagon-like peptide 1 receptor on pancreatic beta cells, which leads the cells to produce insulin. But not all patients achieve normalisation of blood glucose control with GLP-1 drugs, and very few achieve full reversal of obesity.
+
+"We have previously shown that prolonged association of the GLP-1 agonists with the glucagon-like peptide 1 receptor supports insulin secretion in pancreatic beta cells," explains project team leader Dr. Prasenjit Mitra of the Dr. Reddy's Institute of Life Sciences. "This led us to see whether we could enhance the effects of GLP-1 agonism on regulating glucose levels with a complementary therapy."
+
+The team started with a library of potential drugs and tested them in pancreatic beta cells to see if they enhanced the effects of a GLP-1 drug on incretin receptor activity, by measuring a second messenger molecule called cAMP. They found four molecules that enhanced GLP-1 drug activity. The most effective one, MS-275 (also called entinostat), generated 3.5 times the cAMP levels than the GLP-1 drug alone. MS-275 is a member of a drug family called class 1 HDAC inhibitors that are being investigated as treatments for other diseases including cancer.
+
+Given the synergistic effect of the drugs in pancreatic beta cells, the team tested whether their findings would hold true in obese mice, fed a high-fat diet. Shilpak Bele, the graduate student under Dr. Mitra's direction, and other team members found that mice treated with the combination of GLP-1 agonist and MS-275 had a much lower fasting glucose level than control mice that were sustained with repeat dosing. Where a high-fat diet increased fasting blood sugar in the untreated mice, the mice on the combination treatment remained in control.
+
+Given these effects on blood sugar, the team explored whether the combination treatment also minimised weight gain. Mice given the combination treatment had a significant and sustained reduction in their food intake, which resulted in weight loss. When treatment was interrupted, the mice regained weight. Once the treatment was resumed, only the mice receiving the combination treatment showed significant weight loss again.
+
+"GLP-1 drugs have emerged in the last decade as unique medicines that provide substantial improvements in glycemic control and body weight; however, they seldom achieve full metabolic recovery or help treat associated comorbidities such as body weight," Dr. Mitra explains. "Our results suggest that the class 1 HDAC inhibitor MS-275 can significantly enhance the action of GLP-1 drugs, more effectively normalising blood glucose and reducing weight gain. This lays the foundation for clinical studies of combinations of GLP-1/HDAC inhibitors for the long-term management of diabetes and obesity in humans."
+
+source
+
+https://www.sciencedaily.com/releases/2020/12/201222131433.htm

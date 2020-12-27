@@ -1,0 +1,43 @@
+introduct
+
+Scientists in Australia have developed a process for calculating the perfect size and density of quantum dots needed to achieve record efficiency in solar panels.
+
+Quantum dots, human-made nanocrystals 100,000 times thinner than a sheet of paper, can be used as light sensitisers, absorbing infrared and visible light and transferring it to other molecules.
+
+This could enable new types of solar panels to capture more of the light spectrum and generate more electrical current, through a process of 'light fusion' known as photochemical upconversion.
+
+The researchers, from the ARC Centre of Excellence in Exciton Science, used lead sulfide quantum dots in their example. The algorithm is free to access and their results have been published in the journal Nanoscale.
+
+Significantly, existing upconversion results achieved by test devices used organic sensitisers that do not work with silicon solar cells -- currently the most commonly available type of photovoltaics technology -- due to their inability to absorb much of the infrared part of the light spectrum.
+
+Using the right size and density of lead sulfide quantum dots as sensitisers would not only lead to efficiency increases but also be compatible with nearly all existing and planned solar cell technology.
+
+These findings indicate that when it comes to the quantum dot size, it isn't as simple as bigger meaning better.
+
+Using a basic theory, a larger quantum dot might appear to be able to capture more of the colours of sunlight, or more light of a certain wavelength, and be able to help create a device with higher efficiency.
+
+The researchers, though, have taken into account several practical constraints on quantum dot size.
+
+Most importantly, the near infrared part of sunlight at the Earth's surface has a complicated structure, influenced by water in the atmosphere and the sun's heat.
+
+This means the colour of the quantum dot must be tuned to match the peaks of sunlight, like adjusting a musical instrument to a certain pitch.
+
+According to corresponding author Dr Laszlo Frazer, the work demonstrates that a complete picture of the conditions influencing solar cell performance, from the star at the centre of our solar system to nanoscale particles, is necessary to achieve peak efficiency.
+
+"This whole thing requires understanding of the sun, the atmosphere, the solar cell and the quantum dot," he said.
+
+While the projected efficiency increases demonstrated by these results remain modest, the potential benefits are considerable, as they can be used in nearly all solar devices, including those made from silicon.
+
+The next step for researchers is to design and create emitters that will transfer energy from the optimised quantum dot sensitisers most effectively.
+
+"This work tells us a lot about the capturing of light," Laszlo said.
+
+"Releasing it again is something that needs a lot of improvement. There's definitely a need for multidisciplinary contributions here."
+
+Author Benedicta Sherrie of Monash University said: "More work needs to be done on building the solar cell prototypes with these sensitizers (and hopefully with the suitable emitters), and to test them.
+
+"I hope this research will eventually allow society to rely more on photovoltaic solar energy that is not only efficient, but also affordable."
+
+source
+
+https://www.sciencedaily.com/releases/2020/12/201221101217.htm

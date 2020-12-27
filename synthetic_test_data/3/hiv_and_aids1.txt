@@ -1,0 +1,18 @@
+introduct
+
+A University of Arkansas biologist is part of a global team of researchers developing a strategy to detect and intercept diseases emerging from wildlife in Africa that could eventually infect humans.
+
+Assistant professor Kristian Forbes, along with colleagues from Africa, Europe and North America, have proposed a four-part approach to detect and contain zoonotic diseases, those that begin in animals but spillover into humans, like COVID-19 and HIV.
+
+"A lot of research effort to prepare against the threat of novel disease emergences of wildlife viruses has been to identify unknown viruses in wildlife that might someday infect humans," Forbes said. "These efforts have been very successful for identifying new viruses; indeed, thousands have been discovered, but we don't currently have the tools to know which of them pose the most immediate risks to human health."
+
+To enable fast detection of new zoonotic disease outbreaks, the team proposes a system of procuring and screening samples from hospital patients with fevers of unknown origin, analyzing samples from suspicious fatalities of unknown cause, testing blood serum in high-risk or sentinel groups and analyzing samples that have already been collected and archived. The team outlined their approach in a recent article published in the journal The Lancet Microbe.
+
+None of these methods are new, Forbes said. But to date they have not been combined into a continent-wide program aimed at rapid detection.
+
+"Given limitations to the current model for preventing disease emergences, our article focuses on a coordinated and widespread strategy for early detection so that novel disease outbreaks can be intercepted before they potentially become global pandemics."
+
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201218152727.htm

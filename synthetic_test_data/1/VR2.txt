@@ -1,0 +1,27 @@
+introduct
+
+Researchers from the Centre for Audio, Acoustics and Vibration at the University of Technology Sydney are exploring technology for those wanting a quieter life!
+
+Reporting in the journal Scientific Reports (a Nature Springer publication), the team of Tong Xiao, Xiaojun Qiu and Benjamin Halkon highlight the positive impacts for health and wellbeing of their 'virtual Active Noise Control/Cancellation (ANC) headphone' and its enhanced ability to reduce ambient noise.
+
+By integrating laser-based technology -- which can deal with high frequencies -- into headrests they eliminate the need for users to wear head/ear phones or buds.
+
+So, in an open plan or home office, you can cancel out colleagues' chatter, ringing phones, the neigbour's mower, the dog barking, and the kettle whistling while you work without the discomfort / inconvenience of a set of headphones...
+
+And, in enclosed spaces such as cars and aircraft, the virtual headset can significantly reduce all the extraneous noises that can enter the environment, decreasing distractions and making work/rest easier. For machinery and equipment operators, it provides a solution that reduces fatigue often caused by enclosed wearable headphones.
+
+"What we achieved for this ANC headrest/chair is that the ANC performance is significantly improved over the current state-of-the-art result. In particular, some of the high-pitched noise, previously difficult to cancel out, can now be reduced," said Tong Xiao.
+
+Attempts to deliver a practical ANC headset have been decades in progress.
+
+The system they describe is a remote acoustic approach using a laser Doppler vibrometer (LDV) and a small, lightweight and retro-reflective membrane pick-up placed in the cavum concha of a user's ear.
+
+LDVs typically have very high sensitivity with commercially available instruments able to resolve vibration displacements down to pm and velocities down to nm/s resolution. The membrane pick-up can be designed to be small and lightweight and have a wide dynamic range.
+
+"The results show that more than 10 dB sound attenuation can be obtained for an ultra-broadband frequency range up to 6 kHz in the ears for multiple sound sources and for various types of common environmental noise," said Xiao.
+
+"This virtual ANC headphone system has significantly better performance than any other virtual error sensing solution in the published literature thus far."
+
+
+source 
+https://www.sciencedaily.com/releases/2020/11/201130113542.htm

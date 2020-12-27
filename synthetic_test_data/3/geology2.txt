@@ -1,0 +1,47 @@
+introduct
+
+Megathrust earthquakes and subsequent tsunamis that originate in subduction zones like Cascadia -- Vancouver Island, Canada, to northern California -- are some of the most severe natural disasters in the world. Now a team of geoscientists thinks the key to understanding some of these destructive events may lie in the deep, gradual slow-slip behaviors beneath the subduction zones. This information might help in planning for future earthquakes in the area.
+
+"What we found was pretty unexpected," said Kirsty A. McKenzie, doctoral candidate in geoscience, Penn State.
+
+Unlike the bigger, shallower megathrust earthquakes that move and put out energy in the same direction as the plates move, the slow-slip earthquakes' energy may move in other directions, primarily down.
+
+Subduction zones occur when two of the Earth's plates meet and one moves beneath the other. This typically creates a fault line and some distance away, a line of volcanoes. Cascadia is typical in that the tectonic plates meet near the Pacific coast and the Cascade Mountains, a volcanic range containing Mount St. Helens, Mount Hood and Mount Rainier, forms to the east.
+
+According to the researchers, a megathrust earthquake of magnitude 9 occurred in Cascadia in 1700 and there has not been a large earthquake there since then. Rather, slow-slip earthquakes, events that happen deeper and move very short distances at a very slow rate, happen continuously.
+
+"Usually, when an earthquake occurs we find that the motion is in the direction opposite to how the plates have moved, accumulating that slip deficit," said Kevin P. Furlong, professor of geosciences, Penn State. "For these slow-slip earthquakes, the direction of movement is directly downward in the direction of gravity instead of in the plate motion directions."
+
+The researchers have found that areas in New Zealand, identified by other geologists, slow slip the same way Cascadia does.
+
+"But there are subduction zones that don't have these slow-slip events, so we don't have direct measurements of how the deeper part of the subducting plate is moving," said Furlong. "In Sumatra, the shallower seismic zone, as expected, moves in the plate-motion direction, but even though there are no slow-slip events, the deeper plate movement still appears to be primarily controlled by gravity."
+
+Slow-slip earthquakes occur at a deeper depth than the earthquakes that cause major damage and earth-shaking events, and the researchers have analyzed how this deep slip may affect the timing and behavior of the larger, damaging megathrust earthquakes.
+
+"Slow-slip earthquakes rupture over several weeks, so they are not just one event," said McKenzie. "It's like a swarm of events."
+
+According to the researchers, in southern Cascadia, the overall plate motion is about an inch of movement per year and in the north by Vancouver Island, it is about 1.5 inches.
+
+"We don't know how much of that 30 millimeters (1 inch) per year is accumulating to be released in the next big earthquake or if some movement is taken up by some non-observable process," said McKenzie. "These slow-slip events put out signals we can see. We can observe the slow-slip events going east to west and not in the plate motion direction."
+
+Slow-slip events in Cascadia occur every one to two years, but geologists wonder if one of them will be the one that will trigger the next megathrust earthquake.
+
+The researchers measure surface movement using permanent, high-resolution GPS stations on the surface. The result is a stair step pattern of loading and slipping during slow-slip events. The events are visible on the surface even though geologists know they are about 22 miles beneath the surface. They report their results in Geochemistry, Geophysics, Geosystems.
+
+"The reason we don't know all that much about slow-slip earthquakes is they were only discovered about 20 years ago," said Furlong. "It took five years to figure out what they were and then we needed precise enough GPS to actually measure the motion on the Earth's surface. Then we had to use modeling to convert the slip on the surface to the slip beneath the surface on the plate boundary itself, which is bigger."
+
+The researchers believe that understanding the effects of slow-slip earthquakes in the region at these deeper depths will allow them to understand what might trigger the next megathrust earthquake in the area. Engineers want to know how strong shaking in an earthquake will be, but they also want to know the direction the forces will be in. If the difference in direction of slow-slip events indicates a potential change in behavior in a large event, that information would be helpful in planning.
+
+"More fundamentally, we don't know what triggers the big earthquake in this situation," said McKenzie. "Every time we add new data about the physics of the problem, it becomes an important component. In the past, everyone thought that the events were unidirectional, but they can be different by 40 or 50 degrees."
+
+While the slow-events in Cascadia are shedding light on potential megathrust earthquakes in the area and the tsunamis they can trigger, Furlong thinks that other subduction zones may also have similar patterns.
+
+"I would argue that it (differences in direction of motion) is happening in Alaska, Chile, Sumatra," said Furlong. "It is only in a few that we see the evidence of it, but it may be a universal process that has been missed. Cascadia exhibits it because of the slow-slip events, but it may be fundamental to subduction zones."
+
+Also working on this project was Matthew W. Herman, assistant professor of geology, California State University, Bakersfield.
+
+The National Science Foundation supported this work.
+
+source 
+
+https://www.sciencedaily.com/releases/2020/12/201221173131.htm

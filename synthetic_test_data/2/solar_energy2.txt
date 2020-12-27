@@ -1,0 +1,17 @@
+introduct
+
+Fluorescence usually entails the conversion of light at shorter wavelengths to light at longer wavelengths. Scientists have now discovered a chromophore system that goes the other way around. When excited by visible light, the fluorescent dyes emit light in the ultraviolet region. According to the study published in the journal Angewandte Chemie, such light upconversion systems could boost the light-dependent reactions for which efficiency is important, such as solar-powered water splitting.
+
+Fluorescent dyes absorb light at shorter wavelengths (high energy, e.g. blue light) and emit light at longer wavelengths (low energy, e.g. red light). Upconversion of light is much more difficult to achieve. Upconversion means that a fluorescent dye is excited with radiation in the visible range but emits in the ultraviolet. Such dyes could be used to run high-energy catalytic reactions such as solar-powered water splitting just using normal daylight as an energy source. Such dyes would expand the range of available excitation energy.
+
+Nobuhiro Yanai and colleagues at Kyushu University, Japan, are exploring multi-chromophore systems for their ability to upconvert fluorescence light. Yanai explains how upconversion works: "Fluorescence upconversion occurs when two chromophore molecules, which have been excited in the triplet state by a sensitizer, collide. This collision annihilates the sensitized energy and lifts the chromophores to a higher energy level. From there, they emit the energy as radiation."
+
+In practice, however, it is difficult to achieve effective upconverting chromophore designs -- existing systems need high-intensity radiation and still do not achieve more than ten percent efficiency. "The main reason for the low efficiency is that the sensitizer chromophore molecules also absorb much of the upconverted light, which is then lost," Yanai says.
+
+In contrast, the donor-acceptor chromophore pair developed by Yanai and colleagues exhibits energy levels that are so finely adjusted that it achieved a record-high 20 percent upconversion efficiency. Almost no back-absorption and low nonradiative loss occurred. The novel chromophore pair consisted of an iridium-based donor, which was an established sensitizer, and a naphthalene-derived acceptor, which was a novel compound.
+
+Low back-absorption and few radiative losses mean that the intensity of the exciting radiation can be low. The researchers reported that solar irradiance was sufficient to achieve high upconversion efficiency. Even indoor applications were possible using artificial light. The authors held an LED lamp above an ampoule filled with the chromophore solution and measured the intensity of the emitted UV light.
+
+
+source 
+https://www.sciencedaily.com/releases/2020/12/201218112456.htm

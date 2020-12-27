@@ -1,0 +1,47 @@
+introduct
+
+A new machine learning algorithm is poised to help urban transportation analysts relieve bottlenecks and chokepoints that routinely snarl city traffic.
+
+The tool, called TranSEC, was developed at the U.S. Department of Energy's Pacific Northwest National Laboratory to help urban traffic engineers get access to actionable information about traffic patterns in their cities.
+
+Currently, publicly available traffic information at the street level is sparse and incomplete. Traffic engineers generally have relied on isolated traffic counts, collision statistics and speed data to determine roadway conditions. The new tool uses traffic datasets collected from UBER drivers and other publicly available traffic sensor data to map street-level traffic flow over time. It creates a big picture of city traffic using machine learning tools and the computing resources available at a national laboratory.
+
+"What's novel here is the street level estimation over a large metropolitan area," said Arif Khan, a PNNL computer scientist who helped develop TranSEC. "And unlike other models that only work in one specific metro area, our tool is portable and can be applied to any urban area where aggregated traffic data is available."
+
+UBER-fast traffic analysis
+
+TranSEC (which stands for transportation state estimation capability) differentiates itself from other traffic monitoring methods by its ability to analyze sparse and incomplete information. It uses machine learning to connect segments with missing data, and that allows it to make near real-time street level estimations.
+
+In contrast, the map features on our smart phones can help us optimize our journey through a city landscape, pointing out chokepoints and suggesting alternate routes. But smart phone tools only work for an individual driver trying to get from point A to point B. City traffic engineers are concerned with how to help all vehicles get to their destinations efficiently. Sometimes a route that seems efficient for an individual driver leads to too many vehicles trying to access a road that wasn't designed to handle that volume of traffic.
+
+Using public data from the entire 1,500-square-mile Los Angeles metropolitan area, the team reduced the time needed to create a traffic congestion model by an order of magnitude, from hours to minutes. The speed-up, accomplished with high-performance computing resources at PNNL, makes near-real-time traffic analysis feasible. The research team recently presented that analysis at the August 2020 virtual Urban Computing Workshop as part of the Knowledge Discovery and Data Mining (SIGKDD) conference, and in September 2020 they sought the input of traffic engineers at a virtual meeting on TranSEC.
+
+"TranSEC has the potential to initiate a paradigm shift in how traffic professionals monitor and predict system mobility performance," said Mark Franz, a meeting attendee and a research engineer at the Center for Advanced Transportation Technology, University of Maryland, College Park. "TranSEC overcomes the inherent data gaps in legacy data collection methods and has tremendous potential."
+
+Machine learning improves accuracy over time
+
+The machine learning feature of TranSEC means that as more data is acquired and processed it becomes more refined and useful over time. This kind of analysis is used to understand how disturbances spread across networks. Given enough data, the machine learning element will be able to predict impacts so that traffic engineers can create corrective strategies.
+
+"We use a graph-based model together with novel sampling methods and optimization engines, to learn both the travel times and the routes," said Arun Sathanur, a PNNL computer scientist and a lead researcher on the team. "The method has significant potential to be expanded to other modes of transportation, such as transit and freight traffic. As an analytic tool, it is capable of investigating how a traffic condition spreads."
+
+With PNNL's data-driven approach, users can upload real-time data and update TranSEC on a regular basis in a transportation control center. Engineers can use short-term forecasts for decision support to manage traffic issues. PNNL's approach is also extensible to include weather or other data that affect conditions on the road.
+
+Computing power for transportation planners nationwide
+
+Just as situational awareness of conditions informs an individual driver's decisions, TranSEC's approach provides situational awareness on a system-wide basis to help reduce urban traffic congestion.
+
+"Traffic engineers nationwide have not had a tool to give them anywhere near real-time estimation of transportation network states," said Robert Rallo, PNNL computer scientist and principal investigator on the TranSEC project. "Being able to predict conditions an hour or more ahead would be very valuable, to know where the blockages are going to be."
+
+While running a full-scale city model still requires high-performance computing resources, TranSEC is scalable. For example, a road network with only the major highways and arterials could be modeled on a powerful desktop computer.
+
+"We are working toward making TranSEC available to municipalities nationwide," said Katherine Wolf, project manager for TranSEC.
+
+Eventually, after further development, TranSEC could be used to help program autonomous vehicle routes, according to the research team.
+
+Video: https://www.youtube.com/watch?v=8S4bLv9CtOo
+
+The project was supported by the U.S. Department of Energy's Office of Energy Efficiency and Renewable Energy's Vehicle Technologies Office, Energy Efficient Mobility Systems Program.
+
+source
+
+https://www.sciencedaily.com/releases/2020/12/201202192721.htm
