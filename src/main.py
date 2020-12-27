@@ -2,9 +2,13 @@ import argparse
 import time
 import os
 import numpy as np
+import pandas as pd
 
 from documentprocessor import DocumentProcessor
 from clustering import kmean_process, dbscan_process, kmean_process_equal_clusters
+from sklearn.decomposition import PCA
+from sklearn.preprocessing import normalize
+from sklearn.metrics.pairwise import cosine_similarity
 
 from helpers import (
     save_result_to_file,
@@ -51,6 +55,21 @@ def create_parser():
                                 ' by kmeans. Default option kmeans',
                            default='k')
 
+    my_parser.add_argument('-p',
+                           '--pca',
+                           type=int,
+                           help='use pca to reduce number of features used in algorithm',
+                           default=0
+                           )
+
+    my_parser.add_argument('-c',
+                           '--cos',
+                           type=bool,
+                           help='transform data vector in the way that kmeans uses cosine similarity, instead'
+                                'of euclidean distance ',
+                           default=0
+                           )
+
     return my_parser
 
 
@@ -66,6 +85,8 @@ def main():
     options = args.options
     algorithm = args.algorithm
     file_format = args.File_format
+    pca = args.pca
+    cos = args.cos
 
     if file_format == 'pdf':
         files = get_all_pdf_files(path)
@@ -92,6 +113,16 @@ def main():
 
     x = np.array(x)
 
+    if pca != 0:
+        print('Done')
+        x_norm = (x - x.min()) / (x.max() - x.min())
+        pca = PCA(n_components=pca)
+        x = pd.DataFrame(pca.fit_transform(x_norm))
+
+    if cos == 1:
+        x_normalized = normalize(x, norm='l2')
+        x = 2 - 2 * cosine_similarity(x_normalized)
+
     if 'k' in algorithm:
         result = kmean_process(x, y, num_of_clusters)
         save_result_to_file("kmeans", result)
@@ -108,6 +139,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-# TODO add option to disable idf
