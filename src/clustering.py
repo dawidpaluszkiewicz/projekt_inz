@@ -57,27 +57,58 @@ def kmean_process_equal_clusters(x, y, num_of_clusters):
 def dbscan_process(x, y, num_of_clusters):  # TODO works very poorly, to adjust later
     np.random.seed(5)
 
-    admissible_size_of_cluster = 2  # no reason to choose 3, to change in future
-    labels = None
-    for i in range(1, 2):
-        clustering = DBSCAN(eps=i, min_samples=admissible_size_of_cluster).fit(x)
-        labels = clustering.labels_
-        count_of_clusters = len(set(labels))
-        tmp = {}
-        for j in set(labels):
-            tmp[j] = 0
+    metrics = ['cosine']
+    min_group = len(x) // num_of_clusters
+    average_group_size = len(x) / num_of_clusters
+    epsilon = [500, 100, 50, 10, 5] + [(i + 1)/1000 for i in range(1000)]
+    was_resolution_found = False
 
-        for j in labels:
-            tmp[j] += 1
-        print(count_of_clusters, i, tmp)
-        # if count_of_clusters == num_of_clusters:
-        #     break
-    else:
-        print("Could not find a proper clustering for dbscan")
+    results = []
+    for m in metrics:
+        for i in range(min_group, 0, -1):
+            for j in epsilon:
+                model = DBSCAN(eps=j, min_samples=i, metric=m)
+                result = model.fit(x)
+                labels = result.labels_  #map(lambda z: z + 1, result.labels_)
+                count_of_generated_clusters = len(set(labels))
 
+                if count_of_generated_clusters == num_of_clusters:
+                    results.append(labels)
+                    was_resolution_found = True
+
+    if not was_resolution_found:
+        print("dbscan was not able to find parameters to create expected number of clusters")
+        return
+
+    se = []
+    for result in results:
+        se.append(calculate_squared_error(result, average_group_size))
+
+    min_se_index = se.index(min(se))
+    print(min_se_index)
+
+    labels = results[min_se_index]
+    labels = map(lambda z: z+1, labels)
     ret = list(zip(labels, y))
     ret.sort()
     return ret
+
+
+def calculate_squared_error(labels, mean):
+    tmp_dict = {}
+
+    for i in labels:
+        tmp_dict[i] = 0
+
+    for i in labels:
+        tmp_dict[i] += 1
+
+    se = 0
+    for i in tmp_dict.values():
+        se += (i - mean) ** 2
+
+    print(se)
+    return se
 
 
 def compute_distances_from_centers(x, y, cluster_centres):

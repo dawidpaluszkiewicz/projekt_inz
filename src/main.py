@@ -1,6 +1,7 @@
 import argparse
 import time
 import os
+import sys
 import numpy as np
 import pandas as pd
 
@@ -53,7 +54,7 @@ def create_parser():
                            type=str,
                            help='choose algorithm used to cluster articles> k-kmeans, d-dbscan e-equal size clusters'
                                 ' by kmeans. Default option kmeans',
-                           default='k')
+                           default='ke')
 
     my_parser.add_argument('-p',
                            '--pca',
@@ -128,11 +129,18 @@ def main():
         result = kmean_process(x, y, num_of_clusters)
         save_result_to_file("kmeans", result)
         print('kmeans file with results has been generated')
+
     if 'd' in algorithm:
         result = dbscan_process(x, y, num_of_clusters)
-        save_result_to_file("dbscan", result)
-        print('dbscan file with results has been generated')
-    if 'e':
+        if result:
+            save_result_to_file("dbscan", result)
+            print('dbscan file with results has been generated')
+        else:
+            if algorithm == 'd':
+                print('No result file generated, please try with kmeans')
+                sys.exit(1)
+
+    if 'e' in algorithm:
         result = kmean_process_equal_clusters(x, y, num_of_clusters)
         save_result_to_file("kmeans_equal_size", result)
         print('kmeans_equal_size file with results has been generated')
