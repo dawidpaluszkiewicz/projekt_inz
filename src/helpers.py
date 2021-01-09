@@ -103,7 +103,8 @@ def get_all_pdf_files(path):
     files = [f for f in files if f.endswith('.pdf')]
 
     if len(files) == 0:
-        raise FileNotFoundError("There is no any of pdf articles")
+        print("There are no any of pdf articles in the path you provided")
+        sys.exit(1)
 
     return files
 
@@ -113,7 +114,8 @@ def get_all_txt_files(path):
     files = [f for f in files if f.endswith('.txt')]
 
     if len(files) == 0:
-        raise FileNotFoundError("There is no any of txt articles")
+        print("There are no any of txt articles in the path you provided")
+        sys.exit(1)
 
     return files
 

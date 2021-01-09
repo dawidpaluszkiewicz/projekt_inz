@@ -64,10 +64,10 @@ def create_parser():
 
     my_parser.add_argument('-c',
                            '--cos',
-                           type=bool,
-                           help='transform data vector in the way that kmeans uses cosine similarity, instead'
-                                'of euclidean distance ',
-                           default=0
+                           type=int,
+                           help='transform data vector in the way that kmeans uses cosine similarity, instead '
+                                'of euclidean distance. Default 1 ',
+                           default=1
                            )
 
     return my_parser
@@ -120,21 +120,26 @@ def main():
         x = pd.DataFrame(pca.fit_transform(x_norm))
 
     if cos == 1:
+        print('cosine similarity')
         x_normalized = normalize(x, norm='l2')
         x = 2 - 2 * cosine_similarity(x_normalized)
 
     if 'k' in algorithm:
         result = kmean_process(x, y, num_of_clusters)
         save_result_to_file("kmeans", result)
+        print('kmeans file with results has been generated')
     if 'd' in algorithm:
         result = dbscan_process(x, y, num_of_clusters)
         save_result_to_file("dbscan", result)
+        print('dbscan file with results has been generated')
     if 'e':
         result = kmean_process_equal_clusters(x, y, num_of_clusters)
         save_result_to_file("kmeans_equal_size", result)
+        print('kmeans_equal_size file with results has been generated')
 
     end_ = time.time()  # debugging performance purpose
     print(f"Loading and computation took {end_ - start} seconds")  # debugging performance purpose
+
 
 
 if __name__ == '__main__':
