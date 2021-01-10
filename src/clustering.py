@@ -54,7 +54,7 @@ def kmean_process_equal_clusters(x, y, num_of_clusters):
     return ret
 
 
-def dbscan_process(x, y, num_of_clusters):  # TODO works very poorly, to adjust later
+def dbscan_process(x, y, num_of_clusters):
     np.random.seed(5)
 
     metrics = ['cosine']
@@ -85,7 +85,6 @@ def dbscan_process(x, y, num_of_clusters):  # TODO works very poorly, to adjust 
         se.append(calculate_squared_error(result, average_group_size))
 
     min_se_index = se.index(min(se))
-    print(min_se_index)
 
     labels = results[min_se_index]
     labels = map(lambda z: z+1, labels)
@@ -107,7 +106,6 @@ def calculate_squared_error(labels, mean):
     for i in tmp_dict.values():
         se += (i - mean) ** 2
 
-    print(se)
     return se
 
 

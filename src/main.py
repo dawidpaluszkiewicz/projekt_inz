@@ -116,6 +116,8 @@ def main():
 
     if pca != 0:
         print('Done')
+        if pca > len(x):
+            pca = len(x)
         x_norm = (x - x.min()) / (x.max() - x.min())
         pca = PCA(n_components=pca)
         x = pd.DataFrame(pca.fit_transform(x_norm))
